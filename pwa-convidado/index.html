@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+  <meta name="theme-color" content="#070A22">
+  <meta name="description" content="Entre na sala e jogue Que Jogador É Esse? pelo celular.">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>Que Jogador É Esse?</title>
+  <link rel="manifest" href="./manifest.json">
+  <link rel="preload" href="./fonts/Anton-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+
+<!-- Tela de entrada — canvas 1h / 1i (epico 8.2) -->
+<section class="tela" id="tela-entrada" data-ativa>
+  <header class="marca">
+    <span class="marca__selo">?</span>
+    <span class="marca__nome">QUE JOGADOR É ESSE?</span>
+  </header>
+
+  <h1 class="titulo">Entrar na sala</h1>
+  <p class="apoio">O código está na TV. Escolha um apelido que a família reconheça.</p>
+
+  <form id="form-entrada" novalidate>
+    <div class="campo">
+      <label class="rotulo" for="campo-codigo">Código da sala</label>
+      <input class="entrada entrada--codigo" id="campo-codigo" name="codigo"
+             inputmode="text" autocomplete="off" autocapitalize="characters"
+             spellcheck="false" maxlength="5" placeholder="4K7Q" required>
+      <p class="erro" id="erro-codigo" hidden>
+        <span class="erro__marca">!</span>
+        <span id="erro-codigo-texto"></span>
+      </p>
+    </div>
+
+    <div class="campo">
+      <label class="rotulo" for="campo-apelido">Apelido</label>
+      <input class="entrada" id="campo-apelido" name="apelido"
+             autocomplete="nickname" maxlength="24" placeholder="Duda" required>
+      <p class="erro" id="erro-apelido" hidden>
+        <span class="erro__marca">!</span>
+        <span id="erro-apelido-texto"></span>
+      </p>
+    </div>
+
+    <div class="rodape-form">
+      <button class="botao-primario" id="botao-entrar" type="submit">ENTRAR</button>
+      <p class="nota">Nenhum cadastro, nenhum dado além do apelido.</p>
+    </div>
+  </form>
+</section>
+
+<!-- Tela de espera — canvas 1j -->
+<section class="tela" id="tela-espera">
+  <div class="barra-sala">
+    <span class="rotulo">Sala</span>
+    <span class="codigo-sala" id="espera-codigo"></span>
+  </div>
+
+  <div class="aviso-central">
+    <span class="pulso"></span>
+    <h2 class="titulo titulo--centro">Aguardando o jogo começar</h2>
+    <p class="apoio apoio--centro">Olhe para a TV. Deixe o celular na mão — você vai precisar dele.</p>
+  </div>
+
+  <div class="barra-sala">
+    <span class="rotulo">Na sala</span>
+    <span class="contador" id="espera-contador"></span>
+  </div>
+  <ul class="lista-convidados" id="espera-lista"></ul>
+</section>
+
+<!-- Tela de jogo — canvas 1k (ativo) e 1l (bloqueado) -->
+<section class="tela tela--jogo" id="tela-jogo">
+  <div class="topo-jogo">
+    <div class="eu">
+      <span class="avatar" id="jogo-avatar"></span>
+      <span class="eu__apelido" id="jogo-apelido"></span>
+    </div>
+    <div class="pontos">
+      <span class="pontos__valor" id="jogo-pontos">0</span>
+      <span class="rotulo">pts</span>
+    </div>
+  </div>
+
+  <div class="faixa-rodada">
+    <span class="rotulo" id="jogo-rodada"></span>
+    <span class="rotulo rotulo--valor" id="jogo-valor"></span>
+  </div>
+
+  <p class="alerta" id="jogo-alerta" hidden></p>
+
+  <div class="area-botao">
+    <button class="buzz" id="botao-buzz" type="button">
+      <span class="buzz__texto">EU SEI!</span>
+      <span class="buzz__legenda" id="buzz-legenda">TOQUE PARA COMPRAR</span>
+    </button>
+  </div>
+
+  <p class="apoio apoio--centro" id="jogo-dica">A pista está na TV. Quem tocar primeiro responde.</p>
+</section>
+
+<!-- Tela de fim de jogo (epico 8.4) -->
+<section class="tela" id="tela-fim">
+  <div class="aviso-central aviso-central--alto">
+    <h2 class="titulo titulo--centro">Jogo encerrado</h2>
+    <p class="apoio apoio--centro">Obrigado por jogar!</p>
+    <div class="placar-final">
+      <span class="rotulo">Seus pontos</span>
+      <span class="pontos__valor pontos__valor--grande" id="fim-pontos">0</span>
+    </div>
+    <button class="botao-primario" id="botao-nova-sala" type="button">ENTRAR EM OUTRA SALA</button>
+  </div>
+</section>
+
+<script type="module" src="./app.js"></script>
+</body>
+</html>

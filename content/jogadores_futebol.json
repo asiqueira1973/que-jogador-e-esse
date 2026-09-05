@@ -1,0 +1,4219 @@
+{
+  "pedro": {
+    "nome": "Pedro",
+    "nome_exibicao": "Pedro",
+    "posicao": "atacante",
+    "clube_atual": "Flamengo",
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2022.",
+      "Marcou 15 gols no último Brasileirão.",
+      "Hoje defende o Flamengo."
+    ],
+    "imagem_url": ""
+  },
+  "neymar": {
+    "nome": "Neymar",
+    "nome_exibicao": "Neymar",
+    "posicao": "atacante",
+    "clube_atual": "Santos",
+    "copas_disputadas": [
+      "2014",
+      "2018",
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 4 Copas do Mundo.",
+      "Esteve na Copa de 2014, 2018, 2022 e 2026.",
+      "Marcou 6 gols no último Brasileirão.",
+      "Hoje defende o Santos."
+    ],
+    "imagem_url": ""
+  },
+  "hulk": {
+    "nome": "Hulk",
+    "nome_exibicao": "Hulk",
+    "posicao": "atacante",
+    "clube_atual": "Fluminense",
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2014.",
+      "Marcou 5 gols no último Brasileirão.",
+      "Hoje defende o Fluminense."
+    ],
+    "imagem_url": ""
+  },
+  "lucas-paqueta": {
+    "nome": "Lucas Paquetá",
+    "nome_exibicao": "Lucas Paquetá",
+    "posicao": "meio-campista",
+    "clube_atual": "Flamengo",
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2026.",
+      "Marcou 4 gols no último Brasileirão.",
+      "Hoje defende o Flamengo."
+    ],
+    "imagem_url": ""
+  },
+  "velloso": {
+    "nome": "Velloso",
+    "nome_exibicao": "Velloso",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1930."
+    ],
+    "imagem_url": ""
+  },
+  "ivan-mariz": {
+    "nome": "Ivan Mariz",
+    "nome_exibicao": "Ivan Mariz",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1930."
+    ],
+    "imagem_url": ""
+  },
+  "fortes": {
+    "nome": "Fortes",
+    "nome_exibicao": "Fortes",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1930."
+    ],
+    "imagem_url": ""
+  },
+  "pamplona": {
+    "nome": "Pamplona",
+    "nome_exibicao": "Pamplona",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1930."
+    ],
+    "imagem_url": ""
+  },
+  "fausto": {
+    "nome": "Fausto",
+    "nome_exibicao": "Fausto",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1930."
+    ],
+    "imagem_url": ""
+  },
+  "benevenuto": {
+    "nome": "Benevenuto",
+    "nome_exibicao": "Benevenuto",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1930."
+    ],
+    "imagem_url": ""
+  },
+  "hermogenes": {
+    "nome": "Hermógenes",
+    "nome_exibicao": "Hermógenes",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1930."
+    ],
+    "imagem_url": ""
+  },
+  "preguinho": {
+    "nome": "Preguinho",
+    "nome_exibicao": "Preguinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1930."
+    ],
+    "imagem_url": ""
+  },
+  "nilo": {
+    "nome": "Nilo",
+    "nome_exibicao": "Nilo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1930."
+    ],
+    "imagem_url": ""
+  },
+  "benedicto": {
+    "nome": "Benedicto",
+    "nome_exibicao": "Benedicto",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1930."
+    ],
+    "imagem_url": ""
+  },
+  "carvalho-leite": {
+    "nome": "Carvalho Leite",
+    "nome_exibicao": "Carvalho Leite",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930",
+      "1934"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1930 e 1934."
+    ],
+    "imagem_url": ""
+  },
+  "russinho": {
+    "nome": "Russinho",
+    "nome_exibicao": "Russinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1930."
+    ],
+    "imagem_url": ""
+  },
+  "theophilo": {
+    "nome": "Theóphilo",
+    "nome_exibicao": "Theóphilo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1930."
+    ],
+    "imagem_url": ""
+  },
+  "doca": {
+    "nome": "Doca",
+    "nome_exibicao": "Doca",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1930."
+    ],
+    "imagem_url": ""
+  },
+  "moderato": {
+    "nome": "Moderato",
+    "nome_exibicao": "Moderato",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1930."
+    ],
+    "imagem_url": ""
+  },
+  "poly": {
+    "nome": "Poly",
+    "nome_exibicao": "Poly",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1930."
+    ],
+    "imagem_url": ""
+  },
+  "manoelzinho": {
+    "nome": "Manoelzinho",
+    "nome_exibicao": "Manoelzinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1930."
+    ],
+    "imagem_url": ""
+  },
+  "araken-patusca": {
+    "nome": "Araken Patusca",
+    "nome_exibicao": "Araken Patusca",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1930."
+    ],
+    "imagem_url": ""
+  },
+  "germano": {
+    "nome": "Germano",
+    "nome_exibicao": "Germano",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1934."
+    ],
+    "imagem_url": ""
+  },
+  "roberto-gomes-pedrosa": {
+    "nome": "Roberto Gomes Pedrosa",
+    "nome_exibicao": "Roberto Gomes Pedrosa",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1934."
+    ],
+    "imagem_url": ""
+  },
+  "tinoco": {
+    "nome": "Tinoco",
+    "nome_exibicao": "Tinoco",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1934."
+    ],
+    "imagem_url": ""
+  },
+  "martim": {
+    "nome": "Martim",
+    "nome_exibicao": "Martim",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934",
+      "1938"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1934 e 1938."
+    ],
+    "imagem_url": ""
+  },
+  "canalli": {
+    "nome": "Canalli",
+    "nome_exibicao": "Canalli",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1934."
+    ],
+    "imagem_url": ""
+  },
+  "ariel": {
+    "nome": "Ariel",
+    "nome_exibicao": "Ariel",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1934."
+    ],
+    "imagem_url": ""
+  },
+  "waldir": {
+    "nome": "Waldir",
+    "nome_exibicao": "Waldir",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1934."
+    ],
+    "imagem_url": ""
+  },
+  "luizinho": {
+    "nome": "Luizinho",
+    "nome_exibicao": "Luizinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1934."
+    ],
+    "imagem_url": ""
+  },
+  "waldemar-de-britto": {
+    "nome": "Waldemar de Britto",
+    "nome_exibicao": "Waldemar de Britto",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1934."
+    ],
+    "imagem_url": ""
+  },
+  "armandinho": {
+    "nome": "Armandinho",
+    "nome_exibicao": "Armandinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1934."
+    ],
+    "imagem_url": ""
+  },
+  "leonidas-da-silva": {
+    "nome": "Leônidas da Silva",
+    "nome_exibicao": "Leônidas da Silva",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934",
+      "1938"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1934 e 1938."
+    ],
+    "imagem_url": ""
+  },
+  "attila": {
+    "nome": "Áttila",
+    "nome_exibicao": "Áttila",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1934."
+    ],
+    "imagem_url": ""
+  },
+  "patesko": {
+    "nome": "Patesko",
+    "nome_exibicao": "Patesko",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934",
+      "1938"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1934 e 1938."
+    ],
+    "imagem_url": ""
+  },
+  "walter": {
+    "nome": "Walter",
+    "nome_exibicao": "Walter",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1938."
+    ],
+    "imagem_url": ""
+  },
+  "batatais": {
+    "nome": "Batatais",
+    "nome_exibicao": "Batatais",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1938."
+    ],
+    "imagem_url": ""
+  },
+  "britto": {
+    "nome": "Britto",
+    "nome_exibicao": "Britto",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1938."
+    ],
+    "imagem_url": ""
+  },
+  "zeze-procopio": {
+    "nome": "Zezé Procópio",
+    "nome_exibicao": "Zezé Procópio",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1938."
+    ],
+    "imagem_url": ""
+  },
+  "brandao": {
+    "nome": "Brandão",
+    "nome_exibicao": "Brandão",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1938."
+    ],
+    "imagem_url": ""
+  },
+  "argemiro": {
+    "nome": "Argemiro",
+    "nome_exibicao": "Argemiro",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1938."
+    ],
+    "imagem_url": ""
+  },
+  "affonsinho": {
+    "nome": "Affonsinho",
+    "nome_exibicao": "Affonsinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1938."
+    ],
+    "imagem_url": ""
+  },
+  "peracio": {
+    "nome": "Perácio",
+    "nome_exibicao": "Perácio",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1938."
+    ],
+    "imagem_url": ""
+  },
+  "lopes": {
+    "nome": "Lopes",
+    "nome_exibicao": "Lopes",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1938."
+    ],
+    "imagem_url": ""
+  },
+  "hercules": {
+    "nome": "Hércules",
+    "nome_exibicao": "Hércules",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1938."
+    ],
+    "imagem_url": ""
+  },
+  "romeu": {
+    "nome": "Romeu",
+    "nome_exibicao": "Romeu",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1938."
+    ],
+    "imagem_url": ""
+  },
+  "tim": {
+    "nome": "Tim",
+    "nome_exibicao": "Tim",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1938."
+    ],
+    "imagem_url": ""
+  },
+  "roberto": {
+    "nome": "Roberto",
+    "nome_exibicao": "Roberto",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1938."
+    ],
+    "imagem_url": ""
+  },
+  "niginho": {
+    "nome": "Niginho",
+    "nome_exibicao": "Niginho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1938."
+    ],
+    "imagem_url": ""
+  },
+  "barbosa": {
+    "nome": "Barbosa",
+    "nome_exibicao": "Barbosa",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1950."
+    ],
+    "imagem_url": ""
+  },
+  "castilho": {
+    "nome": "Castilho",
+    "nome_exibicao": "Castilho",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950",
+      "1954",
+      "1958",
+      "1962"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para 4 Copas do Mundo.",
+      "Esteve na Copa de 1950, 1954, 1958 e 1962."
+    ],
+    "imagem_url": ""
+  },
+  "bauer": {
+    "nome": "Bauer",
+    "nome_exibicao": "Bauer",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950",
+      "1954"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1950 e 1954."
+    ],
+    "imagem_url": ""
+  },
+  "noronha": {
+    "nome": "Noronha",
+    "nome_exibicao": "Noronha",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1950."
+    ],
+    "imagem_url": ""
+  },
+  "rui": {
+    "nome": "Rui",
+    "nome_exibicao": "Rui",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1950."
+    ],
+    "imagem_url": ""
+  },
+  "zizinho": {
+    "nome": "Zizinho",
+    "nome_exibicao": "Zizinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1950."
+    ],
+    "imagem_url": ""
+  },
+  "adaozinho": {
+    "nome": "Adãozinho",
+    "nome_exibicao": "Adãozinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1950."
+    ],
+    "imagem_url": ""
+  },
+  "ademir-de-menezes": {
+    "nome": "Ademir de Menezes",
+    "nome_exibicao": "Ademir de Menezes",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1950."
+    ],
+    "imagem_url": ""
+  },
+  "alfredo": {
+    "nome": "Alfredo",
+    "nome_exibicao": "Alfredo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1950."
+    ],
+    "imagem_url": ""
+  },
+  "baltazar": {
+    "nome": "Baltazar",
+    "nome_exibicao": "Baltazar",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950",
+      "1954"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1950 e 1954."
+    ],
+    "imagem_url": ""
+  },
+  "chico": {
+    "nome": "Chico",
+    "nome_exibicao": "Chico",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1950."
+    ],
+    "imagem_url": ""
+  },
+  "friaca": {
+    "nome": "Friaça",
+    "nome_exibicao": "Friaça",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1950."
+    ],
+    "imagem_url": ""
+  },
+  "jair-rosa-pinto": {
+    "nome": "Jair Rosa Pinto",
+    "nome_exibicao": "Jair Rosa Pinto",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1950."
+    ],
+    "imagem_url": ""
+  },
+  "maneca": {
+    "nome": "Maneca",
+    "nome_exibicao": "Maneca",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1950."
+    ],
+    "imagem_url": ""
+  },
+  "rodrigues": {
+    "nome": "Rodrigues",
+    "nome_exibicao": "Rodrigues",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950",
+      "1954"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1950 e 1954."
+    ],
+    "imagem_url": ""
+  },
+  "veludo": {
+    "nome": "Veludo",
+    "nome_exibicao": "Veludo",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1954."
+    ],
+    "imagem_url": ""
+  },
+  "cabecao": {
+    "nome": "Cabeção",
+    "nome_exibicao": "Cabeção",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1954."
+    ],
+    "imagem_url": ""
+  },
+  "brandaozinho": {
+    "nome": "Brandãozinho",
+    "nome_exibicao": "Brandãozinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1954."
+    ],
+    "imagem_url": ""
+  },
+  "didi": {
+    "nome": "Didi",
+    "nome_exibicao": "Didi",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954",
+      "1958",
+      "1962"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 1954, 1958 e 1962."
+    ],
+    "imagem_url": ""
+  },
+  "dequinha": {
+    "nome": "Dequinha",
+    "nome_exibicao": "Dequinha",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1954."
+    ],
+    "imagem_url": ""
+  },
+  "rubens": {
+    "nome": "Rubens",
+    "nome_exibicao": "Rubens",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1954."
+    ],
+    "imagem_url": ""
+  },
+  "julinho-botelho": {
+    "nome": "Julinho Botelho",
+    "nome_exibicao": "Julinho Botelho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1954."
+    ],
+    "imagem_url": ""
+  },
+  "pinga": {
+    "nome": "Pinga",
+    "nome_exibicao": "Pinga",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1954."
+    ],
+    "imagem_url": ""
+  },
+  "maurinho": {
+    "nome": "Maurinho",
+    "nome_exibicao": "Maurinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1954."
+    ],
+    "imagem_url": ""
+  },
+  "humberto": {
+    "nome": "Humberto",
+    "nome_exibicao": "Humberto",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1954."
+    ],
+    "imagem_url": ""
+  },
+  "indio": {
+    "nome": "Índio",
+    "nome_exibicao": "Índio",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1954."
+    ],
+    "imagem_url": ""
+  },
+  "gylmar": {
+    "nome": "Gylmar",
+    "nome_exibicao": "Gylmar",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958",
+      "1962",
+      "1966"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 1958, 1962 e 1966."
+    ],
+    "imagem_url": ""
+  },
+  "dino-sani": {
+    "nome": "Dino Sani",
+    "nome_exibicao": "Dino Sani",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1958."
+    ],
+    "imagem_url": ""
+  },
+  "moacir": {
+    "nome": "Moacir",
+    "nome_exibicao": "Moacir",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1958."
+    ],
+    "imagem_url": ""
+  },
+  "zito": {
+    "nome": "Zito",
+    "nome_exibicao": "Zito",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958",
+      "1962",
+      "1966"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 1958, 1962 e 1966."
+    ],
+    "imagem_url": ""
+  },
+  "zagallo": {
+    "nome": "Zagallo",
+    "nome_exibicao": "Zagallo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958",
+      "1962"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1958 e 1962."
+    ],
+    "imagem_url": ""
+  },
+  "pele": {
+    "nome": "Pelé",
+    "nome_exibicao": "Pelé",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958",
+      "1962",
+      "1966",
+      "1970"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 4 Copas do Mundo.",
+      "Esteve na Copa de 1958, 1962, 1966 e 1970."
+    ],
+    "imagem_url": ""
+  },
+  "garrincha": {
+    "nome": "Garrincha",
+    "nome_exibicao": "Garrincha",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958",
+      "1962",
+      "1966"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 1958, 1962 e 1966."
+    ],
+    "imagem_url": ""
+  },
+  "mazzola": {
+    "nome": "Mazzola",
+    "nome_exibicao": "Mazzola",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1958."
+    ],
+    "imagem_url": ""
+  },
+  "vava": {
+    "nome": "Vavá",
+    "nome_exibicao": "Vavá",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958",
+      "1962"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1958 e 1962."
+    ],
+    "imagem_url": ""
+  },
+  "pepe": {
+    "nome": "Pepe",
+    "nome_exibicao": "Pepe",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958",
+      "1962"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1958 e 1962."
+    ],
+    "imagem_url": ""
+  },
+  "zequinha": {
+    "nome": "Zequinha",
+    "nome_exibicao": "Zequinha",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1962"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1962."
+    ],
+    "imagem_url": ""
+  },
+  "mengalvio": {
+    "nome": "Mengálvio",
+    "nome_exibicao": "Mengálvio",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1962"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1962."
+    ],
+    "imagem_url": ""
+  },
+  "jair-da-costa": {
+    "nome": "Jair da Costa",
+    "nome_exibicao": "Jair da Costa",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1962"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1962."
+    ],
+    "imagem_url": ""
+  },
+  "amarildo": {
+    "nome": "Amarildo",
+    "nome_exibicao": "Amarildo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1962"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1962."
+    ],
+    "imagem_url": ""
+  },
+  "manga": {
+    "nome": "Manga",
+    "nome_exibicao": "Manga",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1966."
+    ],
+    "imagem_url": ""
+  },
+  "gerson": {
+    "nome": "Gérson",
+    "nome_exibicao": "Gérson",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966",
+      "1970"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1966 e 1970."
+    ],
+    "imagem_url": ""
+  },
+  "lima": {
+    "nome": "Lima",
+    "nome_exibicao": "Lima",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1966."
+    ],
+    "imagem_url": ""
+  },
+  "jairzinho": {
+    "nome": "Jairzinho",
+    "nome_exibicao": "Jairzinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966",
+      "1970",
+      "1974"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 1966, 1970 e 1974."
+    ],
+    "imagem_url": ""
+  },
+  "alcindo": {
+    "nome": "Alcindo",
+    "nome_exibicao": "Alcindo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1966."
+    ],
+    "imagem_url": ""
+  },
+  "silva": {
+    "nome": "Silva",
+    "nome_exibicao": "Silva",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1966."
+    ],
+    "imagem_url": ""
+  },
+  "tostao": {
+    "nome": "Tostão",
+    "nome_exibicao": "Tostão",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966",
+      "1970"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1966 e 1970."
+    ],
+    "imagem_url": ""
+  },
+  "parana": {
+    "nome": "Paraná",
+    "nome_exibicao": "Paraná",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1966."
+    ],
+    "imagem_url": ""
+  },
+  "edu": {
+    "nome": "Edu",
+    "nome_exibicao": "Edu",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966",
+      "1970",
+      "1974"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 1966, 1970 e 1974."
+    ],
+    "imagem_url": ""
+  },
+  "felix": {
+    "nome": "Félix",
+    "nome_exibicao": "Félix",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1970."
+    ],
+    "imagem_url": ""
+  },
+  "ado": {
+    "nome": "Ado",
+    "nome_exibicao": "Ado",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1970."
+    ],
+    "imagem_url": ""
+  },
+  "emerson-leao": {
+    "nome": "Emerson Leão",
+    "nome_exibicao": "Emerson Leão",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970",
+      "1974",
+      "1978",
+      "1986"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para 4 Copas do Mundo.",
+      "Esteve na Copa de 1970, 1974, 1978 e 1986."
+    ],
+    "imagem_url": ""
+  },
+  "marco-antonio": {
+    "nome": "Marco Antônio",
+    "nome_exibicao": "Marco Antônio",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970",
+      "1974"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como lateral.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1970 e 1974."
+    ],
+    "imagem_url": ""
+  },
+  "ze-maria": {
+    "nome": "Zé Maria",
+    "nome_exibicao": "Zé Maria",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970",
+      "1974"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como lateral.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1970 e 1974."
+    ],
+    "imagem_url": ""
+  },
+  "wilson-piazza": {
+    "nome": "Wilson Piazza",
+    "nome_exibicao": "Wilson Piazza",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970",
+      "1974"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1970 e 1974."
+    ],
+    "imagem_url": ""
+  },
+  "clodoaldo": {
+    "nome": "Clodoaldo",
+    "nome_exibicao": "Clodoaldo",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1970."
+    ],
+    "imagem_url": ""
+  },
+  "rivellino": {
+    "nome": "Rivellino",
+    "nome_exibicao": "Rivellino",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970",
+      "1974",
+      "1978"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 1970, 1974 e 1978."
+    ],
+    "imagem_url": ""
+  },
+  "roberto-miranda": {
+    "nome": "Roberto Miranda",
+    "nome_exibicao": "Roberto Miranda",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1970."
+    ],
+    "imagem_url": ""
+  },
+  "paulo-cesar-caju": {
+    "nome": "Paulo César Caju",
+    "nome_exibicao": "Paulo César Caju",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970",
+      "1974"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1970 e 1974."
+    ],
+    "imagem_url": ""
+  },
+  "dada-maravilha": {
+    "nome": "Dadá Maravilha",
+    "nome_exibicao": "Dadá Maravilha",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1970."
+    ],
+    "imagem_url": ""
+  },
+  "renato": {
+    "nome": "Renato",
+    "nome_exibicao": "Renato",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974",
+      "1982"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1974 e 1982."
+    ],
+    "imagem_url": ""
+  },
+  "waldir-peres": {
+    "nome": "Waldir Peres",
+    "nome_exibicao": "Waldir Peres",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974",
+      "1978",
+      "1982"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 1974, 1978 e 1982."
+    ],
+    "imagem_url": ""
+  },
+  "luis-pereira": {
+    "nome": "Luís Pereira",
+    "nome_exibicao": "Luís Pereira",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como zagueiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1974."
+    ],
+    "imagem_url": ""
+  },
+  "marinho-peres": {
+    "nome": "Marinho Peres",
+    "nome_exibicao": "Marinho Peres",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como zagueiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1974."
+    ],
+    "imagem_url": ""
+  },
+  "alfredo-mostarda": {
+    "nome": "Alfredo Mostarda",
+    "nome_exibicao": "Alfredo Mostarda",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como zagueiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1974."
+    ],
+    "imagem_url": ""
+  },
+  "marinho-chagas": {
+    "nome": "Marinho Chagas",
+    "nome_exibicao": "Marinho Chagas",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como lateral.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1974."
+    ],
+    "imagem_url": ""
+  },
+  "nelinho": {
+    "nome": "Nelinho",
+    "nome_exibicao": "Nelinho",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974",
+      "1978"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como lateral.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1974 e 1978."
+    ],
+    "imagem_url": ""
+  },
+  "paulo-cesar-carpegiani": {
+    "nome": "Paulo César Carpegiani",
+    "nome_exibicao": "Paulo César Carpegiani",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1974."
+    ],
+    "imagem_url": ""
+  },
+  "ademir-da-guia": {
+    "nome": "Ademir da Guia",
+    "nome_exibicao": "Ademir da Guia",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1974."
+    ],
+    "imagem_url": ""
+  },
+  "leivinha": {
+    "nome": "Leivinha",
+    "nome_exibicao": "Leivinha",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1974."
+    ],
+    "imagem_url": ""
+  },
+  "cesar-maluco": {
+    "nome": "César Maluco",
+    "nome_exibicao": "César Maluco",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1974."
+    ],
+    "imagem_url": ""
+  },
+  "valdomiro": {
+    "nome": "Valdomiro",
+    "nome_exibicao": "Valdomiro",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1974."
+    ],
+    "imagem_url": ""
+  },
+  "mirandinha": {
+    "nome": "Mirandinha",
+    "nome_exibicao": "Mirandinha",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1974."
+    ],
+    "imagem_url": ""
+  },
+  "dirceu": {
+    "nome": "Dirceu",
+    "nome_exibicao": "Dirceu",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974",
+      "1978",
+      "1982"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 1974, 1978 e 1982."
+    ],
+    "imagem_url": ""
+  },
+  "carlos": {
+    "nome": "Carlos",
+    "nome_exibicao": "Carlos",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978",
+      "1982",
+      "1986"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 1978, 1982 e 1986."
+    ],
+    "imagem_url": ""
+  },
+  "amaral": {
+    "nome": "Amaral",
+    "nome_exibicao": "Amaral",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como zagueiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1978."
+    ],
+    "imagem_url": ""
+  },
+  "edinho": {
+    "nome": "Edinho",
+    "nome_exibicao": "Edinho",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978",
+      "1982",
+      "1986"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como zagueiro.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 1978, 1982 e 1986."
+    ],
+    "imagem_url": ""
+  },
+  "abel-braga": {
+    "nome": "Abel Braga",
+    "nome_exibicao": "Abel Braga",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como zagueiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1978."
+    ],
+    "imagem_url": ""
+  },
+  "polozzi": {
+    "nome": "Polozzi",
+    "nome_exibicao": "Polozzi",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como zagueiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1978."
+    ],
+    "imagem_url": ""
+  },
+  "toninho": {
+    "nome": "Toninho",
+    "nome_exibicao": "Toninho",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como lateral.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1978."
+    ],
+    "imagem_url": ""
+  },
+  "rodrigues-neto": {
+    "nome": "Rodrigues Neto",
+    "nome_exibicao": "Rodrigues Neto",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como lateral.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1978."
+    ],
+    "imagem_url": ""
+  },
+  "toninho-cerezo": {
+    "nome": "Toninho Cerezo",
+    "nome_exibicao": "Toninho Cerezo",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978",
+      "1982"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1978 e 1982."
+    ],
+    "imagem_url": ""
+  },
+  "zico": {
+    "nome": "Zico",
+    "nome_exibicao": "Zico",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978",
+      "1982",
+      "1986"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 1978, 1982 e 1986."
+    ],
+    "imagem_url": ""
+  },
+  "batista": {
+    "nome": "Batista",
+    "nome_exibicao": "Batista",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978",
+      "1982"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1978 e 1982."
+    ],
+    "imagem_url": ""
+  },
+  "chicao": {
+    "nome": "Chicão",
+    "nome_exibicao": "Chicão",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1978."
+    ],
+    "imagem_url": ""
+  },
+  "ze-sergio": {
+    "nome": "Zé Sérgio",
+    "nome_exibicao": "Zé Sérgio",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1978."
+    ],
+    "imagem_url": ""
+  },
+  "reinaldo": {
+    "nome": "Reinaldo",
+    "nome_exibicao": "Reinaldo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1978."
+    ],
+    "imagem_url": ""
+  },
+  "gil": {
+    "nome": "Gil",
+    "nome_exibicao": "Gil",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1978."
+    ],
+    "imagem_url": ""
+  },
+  "jorge-mendonca": {
+    "nome": "Jorge Mendonça",
+    "nome_exibicao": "Jorge Mendonça",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1978."
+    ],
+    "imagem_url": ""
+  },
+  "roberto-dinamite": {
+    "nome": "Roberto Dinamite",
+    "nome_exibicao": "Roberto Dinamite",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978",
+      "1982"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1978 e 1982."
+    ],
+    "imagem_url": ""
+  },
+  "paulo-sergio": {
+    "nome": "Paulo Sérgio",
+    "nome_exibicao": "Paulo Sérgio",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982",
+      "1994"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1982 e 1994."
+    ],
+    "imagem_url": ""
+  },
+  "socrates": {
+    "nome": "Sócrates",
+    "nome_exibicao": "Sócrates",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982",
+      "1986"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1982 e 1986."
+    ],
+    "imagem_url": ""
+  },
+  "falcao": {
+    "nome": "Falcão",
+    "nome_exibicao": "Falcão",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982",
+      "1986"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1982 e 1986."
+    ],
+    "imagem_url": ""
+  },
+  "paulo-isidoro": {
+    "nome": "Paulo Isidoro",
+    "nome_exibicao": "Paulo Isidoro",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1982."
+    ],
+    "imagem_url": ""
+  },
+  "serginho-chulapa": {
+    "nome": "Serginho Chulapa",
+    "nome_exibicao": "Serginho Chulapa",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1982."
+    ],
+    "imagem_url": ""
+  },
+  "eder-aleixo": {
+    "nome": "Éder Aleixo",
+    "nome_exibicao": "Éder Aleixo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1982."
+    ],
+    "imagem_url": ""
+  },
+  "paulo-victor": {
+    "nome": "Paulo Victor",
+    "nome_exibicao": "Paulo Victor",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1986."
+    ],
+    "imagem_url": ""
+  },
+  "mauro-galvao": {
+    "nome": "Mauro Galvão",
+    "nome_exibicao": "Mauro Galvão",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986",
+      "1990"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como zagueiro.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1986 e 1990."
+    ],
+    "imagem_url": ""
+  },
+  "edson": {
+    "nome": "Édson",
+    "nome_exibicao": "Édson",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como lateral.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1986."
+    ],
+    "imagem_url": ""
+  },
+  "josimar": {
+    "nome": "Josimar",
+    "nome_exibicao": "Josimar",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como lateral.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1986."
+    ],
+    "imagem_url": ""
+  },
+  "alemao": {
+    "nome": "Alemão",
+    "nome_exibicao": "Alemão",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986",
+      "1990"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1986 e 1990."
+    ],
+    "imagem_url": ""
+  },
+  "elzo": {
+    "nome": "Elzo",
+    "nome_exibicao": "Elzo",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1986."
+    ],
+    "imagem_url": ""
+  },
+  "silas": {
+    "nome": "Silas",
+    "nome_exibicao": "Silas",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986",
+      "1990"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1986 e 1990."
+    ],
+    "imagem_url": ""
+  },
+  "valdo": {
+    "nome": "Valdo",
+    "nome_exibicao": "Valdo",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986",
+      "1990"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1986 e 1990."
+    ],
+    "imagem_url": ""
+  },
+  "muller": {
+    "nome": "Muller",
+    "nome_exibicao": "Muller",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986",
+      "1990",
+      "1994"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 1986, 1990 e 1994."
+    ],
+    "imagem_url": ""
+  },
+  "casagrande": {
+    "nome": "Casagrande",
+    "nome_exibicao": "Casagrande",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1986."
+    ],
+    "imagem_url": ""
+  },
+  "careca": {
+    "nome": "Careca",
+    "nome_exibicao": "Careca",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986",
+      "1990"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1986 e 1990."
+    ],
+    "imagem_url": ""
+  },
+  "edivaldo": {
+    "nome": "Edivaldo",
+    "nome_exibicao": "Edivaldo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1986."
+    ],
+    "imagem_url": ""
+  },
+  "taffarel": {
+    "nome": "Taffarel",
+    "nome_exibicao": "Taffarel",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990",
+      "1994",
+      "1998"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 1990, 1994 e 1998."
+    ],
+    "imagem_url": ""
+  },
+  "acacio": {
+    "nome": "Acácio",
+    "nome_exibicao": "Acácio",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1990."
+    ],
+    "imagem_url": ""
+  },
+  "ricardo-gomes": {
+    "nome": "Ricardo Gomes",
+    "nome_exibicao": "Ricardo Gomes",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como zagueiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1990."
+    ],
+    "imagem_url": ""
+  },
+  "mozer": {
+    "nome": "Mozer",
+    "nome_exibicao": "Mozer",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como zagueiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1990."
+    ],
+    "imagem_url": ""
+  },
+  "mazinho": {
+    "nome": "Mazinho",
+    "nome_exibicao": "Mazinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990",
+      "1994"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1990 e 1994."
+    ],
+    "imagem_url": ""
+  },
+  "dunga": {
+    "nome": "Dunga",
+    "nome_exibicao": "Dunga",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990",
+      "1994",
+      "1998"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 1990, 1994 e 1998."
+    ],
+    "imagem_url": ""
+  },
+  "bismarck": {
+    "nome": "Bismarck",
+    "nome_exibicao": "Bismarck",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1990."
+    ],
+    "imagem_url": ""
+  },
+  "tita": {
+    "nome": "Tita",
+    "nome_exibicao": "Tita",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1990."
+    ],
+    "imagem_url": ""
+  },
+  "romario": {
+    "nome": "Romário",
+    "nome_exibicao": "Romário",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990",
+      "1994"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1990 e 1994."
+    ],
+    "imagem_url": ""
+  },
+  "bebeto": {
+    "nome": "Bebeto",
+    "nome_exibicao": "Bebeto",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990",
+      "1994",
+      "1998"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 1990, 1994 e 1998."
+    ],
+    "imagem_url": ""
+  },
+  "renato-gaucho": {
+    "nome": "Renato Gaúcho",
+    "nome_exibicao": "Renato Gaúcho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1990."
+    ],
+    "imagem_url": ""
+  },
+  "zetti": {
+    "nome": "Zetti",
+    "nome_exibicao": "Zetti",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1994."
+    ],
+    "imagem_url": ""
+  },
+  "gilmar-rinaldi": {
+    "nome": "Gilmar Rinaldi",
+    "nome_exibicao": "Gilmar Rinaldi",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1994."
+    ],
+    "imagem_url": ""
+  },
+  "leonardo": {
+    "nome": "Leonardo",
+    "nome_exibicao": "Leonardo",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994",
+      "1998"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1994 e 1998."
+    ],
+    "imagem_url": ""
+  },
+  "mauro-silva": {
+    "nome": "Mauro Silva",
+    "nome_exibicao": "Mauro Silva",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1994."
+    ],
+    "imagem_url": ""
+  },
+  "zinho": {
+    "nome": "Zinho",
+    "nome_exibicao": "Zinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1994."
+    ],
+    "imagem_url": ""
+  },
+  "rai": {
+    "nome": "Raí",
+    "nome_exibicao": "Raí",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1994."
+    ],
+    "imagem_url": ""
+  },
+  "ronaldo": {
+    "nome": "Ronaldo",
+    "nome_exibicao": "Ronaldo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994",
+      "1998",
+      "2002",
+      "2006"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 4 Copas do Mundo.",
+      "Esteve na Copa de 1994, 1998, 2002 e 2006."
+    ],
+    "imagem_url": ""
+  },
+  "viola": {
+    "nome": "Viola",
+    "nome_exibicao": "Viola",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1994."
+    ],
+    "imagem_url": ""
+  },
+  "carlos-germano": {
+    "nome": "Carlos Germano",
+    "nome_exibicao": "Carlos Germano",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1998."
+    ],
+    "imagem_url": ""
+  },
+  "ze-roberto": {
+    "nome": "Zé Roberto",
+    "nome_exibicao": "Zé Roberto",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998",
+      "2006"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1998 e 2006."
+    ],
+    "imagem_url": ""
+  },
+  "cesar-sampaio": {
+    "nome": "César Sampaio",
+    "nome_exibicao": "César Sampaio",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1998."
+    ],
+    "imagem_url": ""
+  },
+  "giovanni": {
+    "nome": "Giovanni",
+    "nome_exibicao": "Giovanni",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1998."
+    ],
+    "imagem_url": ""
+  },
+  "rivaldo": {
+    "nome": "Rivaldo",
+    "nome_exibicao": "Rivaldo",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998",
+      "2002"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1998 e 2002."
+    ],
+    "imagem_url": ""
+  },
+  "emerson": {
+    "nome": "Emerson",
+    "nome_exibicao": "Emerson",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998",
+      "2006"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 1998 e 2006."
+    ],
+    "imagem_url": ""
+  },
+  "doriva": {
+    "nome": "Doriva",
+    "nome_exibicao": "Doriva",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1998."
+    ],
+    "imagem_url": ""
+  },
+  "edmundo": {
+    "nome": "Edmundo",
+    "nome_exibicao": "Edmundo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 1998."
+    ],
+    "imagem_url": ""
+  },
+  "marcos": {
+    "nome": "Marcos",
+    "nome_exibicao": "Marcos",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2002."
+    ],
+    "imagem_url": ""
+  },
+  "rogerio-ceni": {
+    "nome": "Rogério Ceni",
+    "nome_exibicao": "Rogério Ceni",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002",
+      "2006"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 2002 e 2006."
+    ],
+    "imagem_url": ""
+  },
+  "edmilson": {
+    "nome": "Edmílson",
+    "nome_exibicao": "Edmílson",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2002."
+    ],
+    "imagem_url": ""
+  },
+  "ricardinho": {
+    "nome": "Ricardinho",
+    "nome_exibicao": "Ricardinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002",
+      "2006"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 2002 e 2006."
+    ],
+    "imagem_url": ""
+  },
+  "gilberto-silva": {
+    "nome": "Gilberto Silva",
+    "nome_exibicao": "Gilberto Silva",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002",
+      "2006",
+      "2010"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 2002, 2006 e 2010."
+    ],
+    "imagem_url": ""
+  },
+  "ronaldinho": {
+    "nome": "Ronaldinho",
+    "nome_exibicao": "Ronaldinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002",
+      "2006"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 2002 e 2006."
+    ],
+    "imagem_url": ""
+  },
+  "kleberson": {
+    "nome": "Kléberson",
+    "nome_exibicao": "Kléberson",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002",
+      "2010"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 2002 e 2010."
+    ],
+    "imagem_url": ""
+  },
+  "vampeta": {
+    "nome": "Vampeta",
+    "nome_exibicao": "Vampeta",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2002."
+    ],
+    "imagem_url": ""
+  },
+  "juninho-paulista": {
+    "nome": "Juninho Paulista",
+    "nome_exibicao": "Juninho Paulista",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2002."
+    ],
+    "imagem_url": ""
+  },
+  "kaka": {
+    "nome": "Kaká",
+    "nome_exibicao": "Kaká",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002",
+      "2006",
+      "2010"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 2002, 2006 e 2010."
+    ],
+    "imagem_url": ""
+  },
+  "denilson": {
+    "nome": "Denilson",
+    "nome_exibicao": "Denilson",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2002."
+    ],
+    "imagem_url": ""
+  },
+  "edilson": {
+    "nome": "Edilson",
+    "nome_exibicao": "Edilson",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2002."
+    ],
+    "imagem_url": ""
+  },
+  "luizao": {
+    "nome": "Luizão",
+    "nome_exibicao": "Luizão",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2002."
+    ],
+    "imagem_url": ""
+  },
+  "mineiro": {
+    "nome": "Mineiro",
+    "nome_exibicao": "Mineiro",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2006"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2006."
+    ],
+    "imagem_url": ""
+  },
+  "juninho-pernambucano": {
+    "nome": "Juninho Pernambucano",
+    "nome_exibicao": "Juninho Pernambucano",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2006"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2006."
+    ],
+    "imagem_url": ""
+  },
+  "adriano": {
+    "nome": "Adriano",
+    "nome_exibicao": "Adriano",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2006"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2006."
+    ],
+    "imagem_url": ""
+  },
+  "fred": {
+    "nome": "Fred",
+    "nome_exibicao": "Fred",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2006",
+      "2014",
+      "2018",
+      "2022"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 4 Copas do Mundo.",
+      "Esteve na Copa de 2006, 2014, 2018 e 2022."
+    ],
+    "imagem_url": ""
+  },
+  "robinho": {
+    "nome": "Robinho",
+    "nome_exibicao": "Robinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2006",
+      "2010"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 2006 e 2010."
+    ],
+    "imagem_url": ""
+  },
+  "gomes": {
+    "nome": "Gomes",
+    "nome_exibicao": "Gomes",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2010."
+    ],
+    "imagem_url": ""
+  },
+  "doni": {
+    "nome": "Doni",
+    "nome_exibicao": "Doni",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2010."
+    ],
+    "imagem_url": ""
+  },
+  "felipe-melo": {
+    "nome": "Felipe Melo",
+    "nome_exibicao": "Felipe Melo",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2010."
+    ],
+    "imagem_url": ""
+  },
+  "elano": {
+    "nome": "Elano",
+    "nome_exibicao": "Elano",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2010."
+    ],
+    "imagem_url": ""
+  },
+  "josue": {
+    "nome": "Josué",
+    "nome_exibicao": "Josué",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2010."
+    ],
+    "imagem_url": ""
+  },
+  "ramires": {
+    "nome": "Ramires",
+    "nome_exibicao": "Ramires",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010",
+      "2014"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 2010 e 2014."
+    ],
+    "imagem_url": ""
+  },
+  "luis-fabiano": {
+    "nome": "Luís Fabiano",
+    "nome_exibicao": "Luís Fabiano",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2010."
+    ],
+    "imagem_url": ""
+  },
+  "julio-baptista": {
+    "nome": "Júlio Baptista",
+    "nome_exibicao": "Júlio Baptista",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2010."
+    ],
+    "imagem_url": ""
+  },
+  "nilmar": {
+    "nome": "Nilmar",
+    "nome_exibicao": "Nilmar",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2010."
+    ],
+    "imagem_url": ""
+  },
+  "grafite": {
+    "nome": "Grafite",
+    "nome_exibicao": "Grafite",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2010."
+    ],
+    "imagem_url": ""
+  },
+  "jefferson": {
+    "nome": "Jefferson",
+    "nome_exibicao": "Jefferson",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2014."
+    ],
+    "imagem_url": ""
+  },
+  "victor": {
+    "nome": "Victor",
+    "nome_exibicao": "Victor",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2014."
+    ],
+    "imagem_url": ""
+  },
+  "fernandinho": {
+    "nome": "Fernandinho",
+    "nome_exibicao": "Fernandinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014",
+      "2018"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 2014 e 2018."
+    ],
+    "imagem_url": ""
+  },
+  "paulinho": {
+    "nome": "Paulinho",
+    "nome_exibicao": "Paulinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014",
+      "2018"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 2014 e 2018."
+    ],
+    "imagem_url": ""
+  },
+  "luiz-gustavo": {
+    "nome": "Luiz Gustavo",
+    "nome_exibicao": "Luiz Gustavo",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2014."
+    ],
+    "imagem_url": ""
+  },
+  "hernanes": {
+    "nome": "Hernanes",
+    "nome_exibicao": "Hernanes",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2014."
+    ],
+    "imagem_url": ""
+  },
+  "bernard": {
+    "nome": "Bernard",
+    "nome_exibicao": "Bernard",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2014."
+    ],
+    "imagem_url": ""
+  },
+  "willian": {
+    "nome": "Willian",
+    "nome_exibicao": "Willian",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014",
+      "2018"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 2014 e 2018."
+    ],
+    "imagem_url": ""
+  },
+  "jo": {
+    "nome": "Jô",
+    "nome_exibicao": "Jô",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2014."
+    ],
+    "imagem_url": ""
+  },
+  "alisson": {
+    "nome": "Alisson",
+    "nome_exibicao": "Alisson",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018",
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 2018, 2022 e 2026."
+    ],
+    "imagem_url": ""
+  },
+  "cassio": {
+    "nome": "Cássio",
+    "nome_exibicao": "Cássio",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2018."
+    ],
+    "imagem_url": ""
+  },
+  "ederson": {
+    "nome": "Ederson",
+    "nome_exibicao": "Ederson",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018",
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 2018, 2022 e 2026."
+    ],
+    "imagem_url": ""
+  },
+  "marquinhos": {
+    "nome": "Marquinhos",
+    "nome_exibicao": "Marquinhos",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018",
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como zagueiro.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 2018, 2022 e 2026."
+    ],
+    "imagem_url": ""
+  },
+  "casemiro": {
+    "nome": "Casemiro",
+    "nome_exibicao": "Casemiro",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018",
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 3 Copas do Mundo.",
+      "Esteve na Copa de 2018, 2022 e 2026."
+    ],
+    "imagem_url": ""
+  },
+  "renato-augusto": {
+    "nome": "Renato Augusto",
+    "nome_exibicao": "Renato Augusto",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2018."
+    ],
+    "imagem_url": ""
+  },
+  "douglas-costa": {
+    "nome": "Douglas Costa",
+    "nome_exibicao": "Douglas Costa",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2018."
+    ],
+    "imagem_url": ""
+  },
+  "gabriel-jesus": {
+    "nome": "Gabriel Jesus",
+    "nome_exibicao": "Gabriel Jesus",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018",
+      "2022"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 2018 e 2022."
+    ],
+    "imagem_url": ""
+  },
+  "firmino": {
+    "nome": "Firmino",
+    "nome_exibicao": "Firmino",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2018."
+    ],
+    "imagem_url": ""
+  },
+  "taison": {
+    "nome": "Taison",
+    "nome_exibicao": "Taison",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2018."
+    ],
+    "imagem_url": ""
+  },
+  "weverton": {
+    "nome": "Weverton",
+    "nome_exibicao": "Weverton",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como goleiro.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 2022 e 2026."
+    ],
+    "imagem_url": ""
+  },
+  "alex-sandro": {
+    "nome": "Alex Sandro",
+    "nome_exibicao": "Alex Sandro",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como lateral.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 2022 e 2026."
+    ],
+    "imagem_url": ""
+  },
+  "bremer": {
+    "nome": "Bremer",
+    "nome_exibicao": "Bremer",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como zagueiro.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 2022 e 2026."
+    ],
+    "imagem_url": ""
+  },
+  "paqueta": {
+    "nome": "Paquetá",
+    "nome_exibicao": "Paquetá",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2022."
+    ],
+    "imagem_url": ""
+  },
+  "everton-ribeiro": {
+    "nome": "Everton Ribeiro",
+    "nome_exibicao": "Everton Ribeiro",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2022."
+    ],
+    "imagem_url": ""
+  },
+  "fabinho": {
+    "nome": "Fabinho",
+    "nome_exibicao": "Fabinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 2022 e 2026."
+    ],
+    "imagem_url": ""
+  },
+  "bruno-guimaraes": {
+    "nome": "Bruno Guimarães",
+    "nome_exibicao": "Bruno Guimarães",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como meio-campista.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 2022 e 2026."
+    ],
+    "imagem_url": ""
+  },
+  "richarlison": {
+    "nome": "Richarlison",
+    "nome_exibicao": "Richarlison",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2022."
+    ],
+    "imagem_url": ""
+  },
+  "raphinha": {
+    "nome": "Raphinha",
+    "nome_exibicao": "Raphinha",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para 2 Copas do Mundo.",
+      "Esteve na Copa de 2022 e 2026."
+    ],
+    "imagem_url": ""
+  },
+  "antony": {
+    "nome": "Antony",
+    "nome_exibicao": "Antony",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2022."
+    ],
+    "imagem_url": ""
+  },
+  "vinicius-jr": {
+    "nome": "Vinícius Jr.",
+    "nome_exibicao": "Vinícius Jr.",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2022."
+    ],
+    "imagem_url": ""
+  },
+  "rodrygo": {
+    "nome": "Rodrygo",
+    "nome_exibicao": "Rodrygo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2022."
+    ],
+    "imagem_url": ""
+  },
+  "martinelli": {
+    "nome": "Martinelli",
+    "nome_exibicao": "Martinelli",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2022."
+    ],
+    "imagem_url": ""
+  },
+  "wesley": {
+    "nome": "Wesley",
+    "nome_exibicao": "Wesley",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como lateral.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2026."
+    ],
+    "imagem_url": ""
+  },
+  "douglas-santos": {
+    "nome": "Douglas Santos",
+    "nome_exibicao": "Douglas Santos",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como lateral.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2026."
+    ],
+    "imagem_url": ""
+  },
+  "gabriel-magalhaes": {
+    "nome": "Gabriel Magalhães",
+    "nome_exibicao": "Gabriel Magalhães",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como zagueiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2026."
+    ],
+    "imagem_url": ""
+  },
+  "leo-pereira": {
+    "nome": "Léo Pereira",
+    "nome_exibicao": "Léo Pereira",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como zagueiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2026."
+    ],
+    "imagem_url": ""
+  },
+  "ibanez": {
+    "nome": "Ibañez",
+    "nome_exibicao": "Ibañez",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como zagueiro.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2026."
+    ],
+    "imagem_url": ""
+  },
+  "vini-jr": {
+    "nome": "Vini Jr",
+    "nome_exibicao": "Vini Jr",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2026."
+    ],
+    "imagem_url": ""
+  },
+  "gabriel-martinelli": {
+    "nome": "Gabriel Martinelli",
+    "nome_exibicao": "Gabriel Martinelli",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2026."
+    ],
+    "imagem_url": ""
+  },
+  "luiz-henrique": {
+    "nome": "Luiz Henrique",
+    "nome_exibicao": "Luiz Henrique",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2026."
+    ],
+    "imagem_url": ""
+  },
+  "rayan": {
+    "nome": "Rayan",
+    "nome_exibicao": "Rayan",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2026."
+    ],
+    "imagem_url": ""
+  },
+  "matheus-cunha": {
+    "nome": "Matheus Cunha",
+    "nome_exibicao": "Matheus Cunha",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2026."
+    ],
+    "imagem_url": ""
+  },
+  "endrick": {
+    "nome": "Endrick",
+    "nome_exibicao": "Endrick",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2026."
+    ],
+    "imagem_url": ""
+  },
+  "igor-thiago": {
+    "nome": "Igor Thiago",
+    "nome_exibicao": "Igor Thiago",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "pistas": [
+      "Joga como atacante.",
+      "Foi convocado para uma Copa do Mundo.",
+      "Esteve na Copa de 2026."
+    ],
+    "imagem_url": ""
+  }
+}

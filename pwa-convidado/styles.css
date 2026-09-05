@@ -1,0 +1,223 @@
+/*
+  Estilos da PWA do convidado.
+
+  Paleta e tipografia vem do canvas "Perfil FC — Telas do jogo" (direcao noite de estadio),
+  confirmada pelo Alexandre como identidade oficial (pergunta aberta 25.1 do spec).
+  As telas seguem os quadros 1h (entrada), 1i (erro), 1j (espera), 1k (ativo) e 1l (bloqueado).
+*/
+
+@font-face { font-family: Anton; src: url("./fonts/Anton-Regular.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: Barlow; src: url("./fonts/Barlow-Regular.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: Barlow; src: url("./fonts/Barlow-SemiBold.woff2") format("woff2"); font-weight: 600; font-display: swap; }
+@font-face { font-family: Barlow; src: url("./fonts/Barlow-Bold.woff2") format("woff2"); font-weight: 700; font-display: swap; }
+@font-face { font-family: "Barlow Condensed"; src: url("./fonts/BarlowCondensed-SemiBold.woff2") format("woff2"); font-weight: 600; font-display: swap; }
+@font-face { font-family: "Barlow Condensed"; src: url("./fonts/BarlowCondensed-Bold.woff2") format("woff2"); font-weight: 700; font-display: swap; }
+
+:root {
+  --fundo-topo: #131A52;
+  --fundo-meio: #0A0E2A;
+  --fundo-base: #070A22;
+  --holofote: #FFD84D;
+  --holofote-claro: #FFE585;
+  --holofote-forte: #FFC61A;
+  --tinta: #10112A;
+  --roxo: #7C5CFF;
+  --acerto: #34D399;
+  --erro: #FF4D5E;
+  --erro-claro: #FF8A96;
+  --erro-texto: #FFC2C8;
+  --texto: #F2F4FF;
+  --texto-2: #C7CCEC;
+  --texto-3: #8E96BF;
+  --texto-4: #6E76A0;
+}
+
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+
+/* `display: flex` nas classes abaixo sobrepoe o atributo `hidden` — esta regra devolve a ele a palavra final. */
+[hidden] { display: none !important; }
+
+html, body {
+  margin: 0;
+  min-height: 100%;
+  background: var(--fundo-base);
+}
+
+body {
+  font-family: Barlow, system-ui, sans-serif;
+  color: var(--texto);
+  -webkit-font-smoothing: antialiased;
+  overscroll-behavior: none;
+}
+
+/* Uma tela por vez — a navegacao e sequencial, como na TV (secao 16 do spec). */
+.tela { display: none; }
+.tela[data-ativa] {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  min-height: 100dvh;
+  padding: max(40px, env(safe-area-inset-top)) 28px max(28px, env(safe-area-inset-bottom));
+  background: linear-gradient(180deg, var(--fundo-topo) 0%, var(--fundo-meio) 62%, var(--fundo-base) 100%);
+}
+
+.tela--jogo[data-ativa] { padding-left: 24px; padding-right: 24px; }
+.tela--jogo[data-bloqueada] { background: linear-gradient(180deg, #2A1028 0%, #0D0B26 65%, var(--fundo-base) 100%); }
+
+/* Marca */
+.marca { display: flex; align-items: center; gap: 12px; }
+.marca__selo {
+  width: 36px; height: 36px; border-radius: 10px; background: var(--holofote);
+  display: grid; place-items: center; font-family: Anton, sans-serif; font-size: 20px; color: var(--tinta);
+}
+.marca__nome { font-family: Anton, sans-serif; font-size: 26px; letter-spacing: .5px; }
+
+/* Texto */
+.titulo { font-family: Anton, sans-serif; font-size: 40px; line-height: 1.05; margin: 0; font-weight: 400; }
+.titulo--centro { text-align: center; font-size: 34px; }
+.apoio { font-size: 16px; line-height: 1.5; color: var(--texto-3); margin: 0; }
+.apoio--centro { text-align: center; max-width: 280px; margin-inline: auto; }
+.nota { font-size: 14px; color: var(--texto-4); text-align: center; margin: 0; }
+
+.rotulo {
+  font-family: "Barlow Condensed", sans-serif; font-weight: 700;
+  font-size: 15px; letter-spacing: 3px; text-transform: uppercase; color: var(--texto-3);
+}
+.rotulo--valor { color: var(--acerto); }
+
+/* Formulario de entrada — canvas 1h */
+form { display: flex; flex-direction: column; gap: 24px; flex: 1; }
+.campo { display: flex; flex-direction: column; gap: 10px; }
+
+.entrada {
+  width: 100%; padding: 20px 22px; border-radius: 16px;
+  background: rgba(255, 255, 255, .07); border: 1.5px solid rgba(255, 255, 255, .16);
+  color: var(--texto); font-family: Barlow, sans-serif; font-size: 24px; font-weight: 600;
+  appearance: none;
+}
+.entrada::placeholder { color: var(--texto-4); }
+.entrada:focus { outline: none; border-color: rgba(255, 216, 77, .6); }
+
+.entrada--codigo {
+  font-family: Anton, sans-serif; font-size: 34px; letter-spacing: 8px;
+  color: var(--holofote); text-transform: uppercase; border-color: rgba(255, 216, 77, .6);
+}
+
+.campo[data-invalido] .entrada { border-color: var(--erro); background: rgba(255, 77, 94, .12); color: var(--erro-claro); }
+.campo[data-invalido] .rotulo { color: var(--erro-claro); }
+
+/* Erro — canvas 1i: mensagem clara, sem recarregar a pagina */
+.erro {
+  display: flex; gap: 10px; align-items: flex-start; margin: 0;
+  padding: 14px 16px; border-radius: 12px; background: rgba(255, 77, 94, .1);
+  font-size: 15px; line-height: 1.45; color: var(--erro-texto);
+}
+.erro__marca {
+  flex: none; width: 20px; height: 20px; border-radius: 999px; background: var(--erro);
+  color: #fff; display: grid; place-items: center; font-size: 13px; font-weight: 700;
+}
+
+.rodape-form { margin-top: auto; display: flex; flex-direction: column; gap: 16px; }
+
+.botao-primario {
+  width: 100%; padding: 24px; border: none; border-radius: 18px;
+  background: var(--holofote); color: var(--tinta);
+  font-family: Anton, sans-serif; font-size: 28px; letter-spacing: 1px; text-align: center;
+  cursor: pointer;
+}
+.botao-primario:disabled { opacity: .55; }
+.botao-primario:active { transform: scale(.99); }
+
+/* Espera — canvas 1j */
+.barra-sala { display: flex; align-items: center; justify-content: space-between; }
+.codigo-sala { font-family: Anton, sans-serif; font-size: 22px; letter-spacing: 4px; color: var(--holofote); }
+.contador { font-size: 15px; font-weight: 600; color: var(--acerto); }
+
+.aviso-central { display: flex; flex-direction: column; align-items: center; gap: 18px; padding: 30px 0 8px; }
+.aviso-central--alto { flex: 1; justify-content: center; gap: 24px; }
+
+.pulso {
+  width: 20px; height: 20px; border-radius: 999px; background: var(--holofote);
+  animation: pulsar 2s infinite;
+}
+@keyframes pulsar {
+  0%   { box-shadow: 0 0 0 0 rgba(255, 216, 77, .45); }
+  70%  { box-shadow: 0 0 0 26px rgba(255, 216, 77, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(255, 216, 77, 0); }
+}
+
+.lista-convidados { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.lista-convidados li {
+  display: flex; align-items: center; gap: 14px;
+  padding: 14px 16px; border-radius: 14px; background: rgba(255, 255, 255, .06);
+  font-size: 19px; font-weight: 600;
+}
+.lista-convidados li[data-eu] { background: rgba(255, 216, 77, .12); border: 1px solid rgba(255, 216, 77, .35); }
+.lista-convidados li[data-inativo] { opacity: .45; }
+.marcador-eu {
+  margin-left: auto; font-family: "Barlow Condensed", sans-serif; font-weight: 700;
+  font-size: 14px; letter-spacing: 2px; color: var(--holofote);
+}
+
+.avatar {
+  flex: none; width: 40px; height: 40px; border-radius: 999px;
+  display: grid; place-items: center; font-family: Anton, sans-serif; font-size: 19px;
+  background: var(--holofote); color: var(--tinta);
+}
+
+/* Jogo — canvas 1k / 1l */
+.topo-jogo { display: flex; align-items: center; justify-content: space-between; }
+.eu { display: flex; align-items: center; gap: 10px; }
+.eu__apelido { font-size: 15px; font-weight: 600; color: var(--texto-2); }
+.eu .avatar { width: 30px; height: 30px; font-size: 15px; }
+
+.pontos { display: flex; align-items: baseline; gap: 6px; }
+.pontos__valor { font-family: Anton, sans-serif; font-size: 22px; color: var(--holofote); }
+.pontos__valor--grande { font-size: 64px; }
+
+.faixa-rodada {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 12px 16px; border-radius: 12px; background: rgba(255, 255, 255, .05);
+}
+
+.alerta {
+  display: flex; align-items: center; gap: 12px; margin: 0;
+  padding: 16px; border-radius: 14px;
+  background: rgba(255, 77, 94, .14); border: 1px solid rgba(255, 77, 94, .45);
+  font-size: 17px; font-weight: 600; color: var(--erro-texto);
+}
+.alerta[data-tom="acerto"] {
+  background: rgba(52, 211, 153, .14); border-color: rgba(52, 211, 153, .45); color: #B7F0DC;
+}
+
+.area-botao { flex: 1; display: grid; place-items: center; }
+
+/* Botao dominante: e a acao principal do produto, tem que ser impossivel errar o toque. */
+.buzz {
+  width: min(300px, 76vw); aspect-ratio: 1; border-radius: 999px; border: none;
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px;
+  background: radial-gradient(120% 120% at 30% 20%, var(--holofote-claro), var(--holofote-forte));
+  color: var(--tinta); cursor: pointer;
+  box-shadow: 0 0 0 12px rgba(255, 216, 77, .14), 0 24px 60px -20px rgba(255, 198, 26, .6);
+  animation: pulsar 2.4s infinite;
+  touch-action: manipulation;
+}
+.buzz__texto { font-family: Anton, sans-serif; font-size: 62px; line-height: 1; letter-spacing: 1px; }
+.buzz__legenda { font-family: "Barlow Condensed", sans-serif; font-weight: 700; font-size: 18px; letter-spacing: 3px; opacity: .7; }
+.buzz:active:not(:disabled) { transform: scale(.97); }
+
+.buzz:disabled {
+  background: rgba(255, 255, 255, .05);
+  border: 2px dashed rgba(255, 255, 255, .16);
+  color: var(--texto-4);
+  box-shadow: none;
+  animation: none;
+  cursor: default;
+}
+.buzz:disabled .buzz__legenda { opacity: 1; }
+
+.placar-final { display: flex; flex-direction: column; align-items: center; gap: 6px; }
+
+@media (prefers-reduced-motion: reduce) {
+  .pulso, .buzz { animation: none; }
+}

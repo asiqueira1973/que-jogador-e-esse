@@ -1,0 +1,24 @@
+{
+  "name": "que-jogador-e-esse",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Jogo de festa para Apple TV — app tvOS (anfitriao) + PWA (convidados) sobre Firebase Realtime Database.",
+  "scripts": {
+    "seed:build": "node scripts/build-seed.mjs",
+    "seed:validar": "node scripts/validate-seed.mjs",
+    "seed:importar": "firebase database:set /jogadores_futebol content/jogadores_futebol.json",
+    "seed:baixar": "node scripts/baixar-conteudo.mjs",
+    "emu": "firebase emulators:start --only database,hosting",
+    "test:regras": "firebase emulators:exec --only database --project que-jogador-e-esse \"node --test firebase/tests/*.test.mjs\"",
+    "test:buzz": "firebase emulators:exec --only database --project que-jogador-e-esse \"node --test firebase/tests/buzz-concorrente.test.mjs\"",
+    "test:swift": "bash scripts/test-regras-swift.sh",
+    "salas:limpar": "node scripts/limpar-salas.mjs",
+    "test:motor": "firebase emulators:exec --only database --project que-jogador-e-esse \"swift run --package-path tools/EngineHarness\"",
+    "test:motor:producao": "QJE_USAR_EMULADOR=0 swift run --package-path tools/EngineHarness EngineHarness"
+  },
+  "devDependencies": {
+    "@firebase/rules-unit-testing": "^4.0.1",
+    "firebase": "^11.0.0"
+  }
+}

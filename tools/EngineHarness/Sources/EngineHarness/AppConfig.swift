@@ -1,0 +1,1 @@
+../../../../tvos-app/Sources/Shared/FirebaseClient/AppConfig.swift

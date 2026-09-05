@@ -1,0 +1,97 @@
+POLÍTICA DE PRIVACIDADE — QUE JOGADOR É ESSE?
+
+Última atualização: 4 de setembro de 2026.
+Responsável: Alexandre da Silva de Siqueira (Dab Lab Tecnologia).
+Contato: alexandre@dablab.com.br
+
+1. RESUMO
+
+Este aplicativo não pede cadastro, login, senha, e-mail, nome real, telefone
+ou qualquer dado pessoal. Não exibe anúncios, não usa ferramentas de análise
+de comportamento e não compartilha informação com terceiros.
+
+O único dado informado por uma pessoa é um apelido de exibição, escolhido
+livremente para que os participantes saibam de quem é cada pontuação na tela
+da televisão.
+
+2. DADOS COLETADOS
+
+2.1 Apelido de exibição
+Cada convidado digita um apelido no navegador do próprio celular ao entrar em
+uma partida. Esse apelido aparece na televisão e na tela dos outros
+participantes durante o jogo. Ele é texto livre, não é verificado, não precisa
+ser um nome verdadeiro e não fica vinculado a nenhuma identidade, conta,
+cadastro ou aparelho.
+
+2.2 Dados da partida
+Enquanto a sala está aberta, o serviço guarda apenas o que o jogo precisa para
+funcionar: o código da sala, o estado da rodada, qual jogador de futebol está
+sendo adivinhado, quem apertou o botão primeiro e a pontuação de cada apelido.
+Nada disso identifica uma pessoa.
+
+2.3 O que NÃO é coletado
+O aplicativo não coleta e não tem acesso a: nome, e-mail, telefone, endereço,
+data de nascimento, documentos, dados de pagamento, localização, contatos,
+fotos, agenda, microfone, câmera, identificadores de publicidade,
+identificadores de dispositivo, histórico de navegação ou dados de uso.
+
+O aplicativo não utiliza Firebase Authentication, Firebase Analytics, Firebase
+Crashlytics, redes de anúncios nem qualquer SDK de rastreamento.
+
+3. USO DOS DADOS
+
+Os dados descritos acima são usados exclusivamente para fazer a partida
+funcionar: mostrar quem está na sala, definir quem apertou o botão primeiro e
+somar a pontuação. Não são usados para publicidade, perfilamento,
+recomendação, treinamento de modelos ou qualquer outra finalidade.
+
+4. ARMAZENAMENTO, RETENÇÃO E SEGURANÇA
+
+Os dados da partida ficam no Firebase Realtime Database (Google LLC), que é a
+infraestrutura usada pelo aplicativo. Toda a comunicação é feita por HTTPS.
+
+Os dados são efêmeros. São apagados quando o anfitrião encerra a partida, e
+salas encerradas são removidas do servidor em até 24 horas. Não existe
+histórico entre partidas: ao encerrar o jogo, a pontuação deixa de existir.
+
+5. COMPARTILHAMENTO COM TERCEIROS
+
+Nenhum dado é vendido, cedido, alugado ou compartilhado com terceiros. O único
+prestador de serviço envolvido é o Google, como provedor da infraestrutura
+(Firebase Realtime Database e hospedagem das imagens), que processa os dados
+apenas para manter o serviço no ar.
+
+6. CRIANÇAS
+
+O jogo é feito para ser jogado em família e crianças podem participar. Como o
+aplicativo não pede nenhum dado pessoal — apenas um apelido de exibição, que
+pode ser qualquer palavra — não há coleta de informação identificável de
+menores de idade. O apelido é visível somente para as pessoas que estão na
+mesma sala, assistindo à mesma televisão, durante aquela partida. Não existe
+feed público, perfil, mensagem privada, busca de usuários ou qualquer forma de
+contato entre desconhecidos.
+
+7. SEUS DIREITOS
+
+Como não há conta nem dado pessoal armazenado, não existe cadastro a consultar,
+corrigir ou excluir. Encerrar a partida apaga os dados daquela sala. Para
+qualquer dúvida sobre privacidade, escreva para alexandre@dablab.com.br. A
+resposta é dada em até 48 horas úteis.
+
+8. CONTEÚDO EXIBIDO
+
+As imagens dos jogadores de futebol são ilustrações estilizadas criadas para o
+aplicativo. Não são fotografias e não reproduzem traços faciais de pessoas
+reais. As informações apresentadas (posição, clube, Copas do Mundo disputadas)
+são dados factuais de domínio público sobre atletas profissionais.
+
+9. ALTERAÇÕES
+
+Mudanças nesta política serão publicadas junto com uma nova versão do
+aplicativo, com a data de atualização revista no topo deste documento.
+
+10. CONTATO
+
+Alexandre da Silva de Siqueira — Dab Lab Tecnologia
+alexandre@dablab.com.br
+https://suportedablab.carrd.co/

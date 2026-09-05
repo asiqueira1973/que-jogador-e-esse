@@ -1,0 +1,3282 @@
+[
+  {
+    "id": "k-viveros",
+    "nome": "K. Viveros",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "nome_exibicao abreviado (\"K. Viveros\") — expandir antes de publicar",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "K. Viveros",
+      "nome_exibicao": "K. Viveros",
+      "posicao": "",
+      "clube_atual": "Athletico PR",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 17 gols no último Brasileirão.",
+        "Hoje defende o Athletico PR."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "carlos-vinicius",
+    "nome": "Carlos Vinícius",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Carlos Vinícius",
+      "nome_exibicao": "Carlos Vinícius",
+      "posicao": "",
+      "clube_atual": "Grêmio",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 10 gols no último Brasileirão.",
+        "Hoje defende o Grêmio."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "john-kennedy",
+    "nome": "John Kennedy",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "John Kennedy",
+      "nome_exibicao": "John Kennedy",
+      "posicao": "",
+      "clube_atual": "Fluminense",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 9 gols no último Brasileirão.",
+        "Hoje defende o Fluminense."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "gabriel-barbosa",
+    "nome": "Gabriel Barbosa",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Gabriel Barbosa",
+      "nome_exibicao": "Gabriel Barbosa",
+      "posicao": "",
+      "clube_atual": "Santos",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 8 gols no último Brasileirão.",
+        "Hoje defende o Santos."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "j-lopez",
+    "nome": "J. López",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "nome_exibicao abreviado (\"J. López\") — expandir antes de publicar",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "J. López",
+      "nome_exibicao": "J. López",
+      "posicao": "",
+      "clube_atual": "Palmeiras",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 8 gols no último Brasileirão.",
+        "Hoje defende o Palmeiras."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "breno-lopes",
+    "nome": "Breno Lopes",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Breno Lopes",
+      "nome_exibicao": "Breno Lopes",
+      "posicao": "",
+      "clube_atual": "Coritiba",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 8 gols no último Brasileirão.",
+        "Hoje defende o Coritiba."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "samuel-lino",
+    "nome": "Samuel Lino",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Samuel Lino",
+      "nome_exibicao": "Samuel Lino",
+      "posicao": "",
+      "clube_atual": "Flamengo",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 8 gols no último Brasileirão.",
+        "Hoje defende o Flamengo."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "danilo-santos",
+    "nome": "Danilo Santos",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Danilo Santos",
+      "nome_exibicao": "Danilo Santos",
+      "posicao": "",
+      "clube_atual": "Botafogo",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 7 gols no último Brasileirão.",
+        "Hoje defende o Botafogo."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "danilo-santos",
+    "nome": "Danilo Santos",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3",
+      "id duplicado com \"Danilo Santos\""
+    ],
+    "registro": {
+      "nome": "Danilo Santos",
+      "nome_exibicao": "Danilo Santos",
+      "posicao": "",
+      "clube_atual": "Botafogo",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "dificil",
+      "pistas": [
+        "Marcou 2 gols no último Brasileirão.",
+        "Hoje defende o Botafogo."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "jaja",
+    "nome": "Jajá",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Jajá",
+      "nome_exibicao": "Jajá",
+      "posicao": "",
+      "clube_atual": "Remo-PA",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 7 gols no último Brasileirão.",
+        "Hoje defende o Remo-PA."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "luciano",
+    "nome": "Luciano",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Luciano",
+      "nome_exibicao": "Luciano",
+      "posicao": "",
+      "clube_atual": "São Paulo",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 7 gols no último Brasileirão.",
+        "Hoje defende o São Paulo."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "j-calleri",
+    "nome": "J. Calleri",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "nome_exibicao abreviado (\"J. Calleri\") — expandir antes de publicar",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "J. Calleri",
+      "nome_exibicao": "J. Calleri",
+      "posicao": "",
+      "clube_atual": "São Paulo",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 7 gols no último Brasileirão.",
+        "Hoje defende o São Paulo."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "arthur-cabral",
+    "nome": "Arthur Cabral",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Arthur Cabral",
+      "nome_exibicao": "Arthur Cabral",
+      "posicao": "",
+      "clube_atual": "Botafogo",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 7 gols no último Brasileirão.",
+        "Hoje defende o Botafogo."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "luciano-juba",
+    "nome": "Luciano Juba",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Luciano Juba",
+      "nome_exibicao": "Luciano Juba",
+      "posicao": "",
+      "clube_atual": "Bahia",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 7 gols no último Brasileirão.",
+        "Hoje defende o Bahia."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "mauricio",
+    "nome": "Mauricio",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Mauricio",
+      "nome_exibicao": "Mauricio",
+      "posicao": "",
+      "clube_atual": "Palmeiras",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 7 gols no último Brasileirão.",
+        "Hoje defende o Palmeiras."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "pedro-rocha",
+    "nome": "Pedro Rocha",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Pedro Rocha",
+      "nome_exibicao": "Pedro Rocha",
+      "posicao": "",
+      "clube_atual": "Coritiba",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 7 gols no último Brasileirão.",
+        "Hoje defende o Coritiba."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "kaio-jorge",
+    "nome": "Kaio Jorge",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Kaio Jorge",
+      "nome_exibicao": "Kaio Jorge",
+      "posicao": "",
+      "clube_atual": "Cruzeiro",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 6 gols no último Brasileirão.",
+        "Hoje defende o Cruzeiro."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "matheus-pereira",
+    "nome": "Matheus Pereira",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Matheus Pereira",
+      "nome_exibicao": "Matheus Pereira",
+      "posicao": "",
+      "clube_atual": "Cruzeiro",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 6 gols no último Brasileirão.",
+        "Hoje defende o Cruzeiro."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "j-carbonero",
+    "nome": "J. Carbonero",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "nome_exibicao abreviado (\"J. Carbonero\") — expandir antes de publicar",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "J. Carbonero",
+      "nome_exibicao": "J. Carbonero",
+      "posicao": "",
+      "clube_atual": "Internacional",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 6 gols no último Brasileirão.",
+        "Hoje defende o Internacional."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "rene",
+    "nome": "Renê",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Renê",
+      "nome_exibicao": "Renê",
+      "posicao": "",
+      "clube_atual": "Vitória",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 5 gols no último Brasileirão.",
+        "Hoje defende o Vitória."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "christian",
+    "nome": "Christian",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Christian",
+      "nome_exibicao": "Christian",
+      "posicao": "",
+      "clube_atual": "Cruzeiro",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 5 gols no último Brasileirão.",
+        "Hoje defende o Cruzeiro."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "j-carrascal",
+    "nome": "J. Carrascal",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "nome_exibicao abreviado (\"J. Carrascal\") — expandir antes de publicar",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "J. Carrascal",
+      "nome_exibicao": "J. Carrascal",
+      "posicao": "",
+      "clube_atual": "Flamengo",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 5 gols no último Brasileirão.",
+        "Hoje defende o Flamengo."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "a-canobbio",
+    "nome": "A. Canobbio",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "nome_exibicao abreviado (\"A. Canobbio\") — expandir antes de publicar",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "A. Canobbio",
+      "nome_exibicao": "A. Canobbio",
+      "posicao": "",
+      "clube_atual": "Fluminense",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 5 gols no último Brasileirão.",
+        "Hoje defende o Fluminense."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "a-barreal",
+    "nome": "Á. Barreal",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "nome_exibicao abreviado (\"Á. Barreal\") — expandir antes de publicar",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Á. Barreal",
+      "nome_exibicao": "Á. Barreal",
+      "posicao": "",
+      "clube_atual": "Santos",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 5 gols no último Brasileirão.",
+        "Hoje defende o Santos."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "i-pitta",
+    "nome": "I. Pitta",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "nome_exibicao abreviado (\"I. Pitta\") — expandir antes de publicar",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "I. Pitta",
+      "nome_exibicao": "I. Pitta",
+      "posicao": "",
+      "clube_atual": "Red Bull Bragantino",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 5 gols no último Brasileirão.",
+        "Hoje defende o Red Bull Bragantino."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "j-lavega",
+    "nome": "J. Lavega",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "nome_exibicao abreviado (\"J. Lavega\") — expandir antes de publicar",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "J. Lavega",
+      "nome_exibicao": "J. Lavega",
+      "posicao": "",
+      "clube_atual": "Coritiba",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 5 gols no último Brasileirão.",
+        "Hoje defende o Coritiba."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "alef-manga",
+    "nome": "Alef Manga",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Alef Manga",
+      "nome_exibicao": "Alef Manga",
+      "posicao": "",
+      "clube_atual": "Remo-PA",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 5 gols no último Brasileirão.",
+        "Hoje defende o Remo-PA."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "s-mendoza",
+    "nome": "S. Mendoza",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "nome_exibicao abreviado (\"S. Mendoza\") — expandir antes de publicar",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "S. Mendoza",
+      "nome_exibicao": "S. Mendoza",
+      "posicao": "",
+      "clube_atual": "Athletico PR",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Marcou 5 gols no último Brasileirão.",
+        "Hoje defende o Athletico PR."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "vitor-roque",
+    "nome": "Vitor Roque",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Vitor Roque",
+      "nome_exibicao": "Vitor Roque",
+      "posicao": "",
+      "clube_atual": "Palmeiras",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "dificil",
+      "pistas": [
+        "Marcou 4 gols no último Brasileirão.",
+        "Hoje defende o Palmeiras."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "gabriel-taliari",
+    "nome": "Gabriel Taliari",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Gabriel Taliari",
+      "nome_exibicao": "Gabriel Taliari",
+      "posicao": "",
+      "clube_atual": "Remo-PA",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "dificil",
+      "pistas": [
+        "Marcou 4 gols no último Brasileirão.",
+        "Hoje defende o Remo-PA."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "eduardo",
+    "nome": "Eduardo",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Eduardo",
+      "nome_exibicao": "Eduardo",
+      "posicao": "",
+      "clube_atual": "Mirassol",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "dificil",
+      "pistas": [
+        "Marcou 4 gols no último Brasileirão.",
+        "Hoje defende o Mirassol."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "j-arias",
+    "nome": "J. Arias",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "nome_exibicao abreviado (\"J. Arias\") — expandir antes de publicar",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "J. Arias",
+      "nome_exibicao": "J. Arias",
+      "posicao": "",
+      "clube_atual": "Palmeiras",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "dificil",
+      "pistas": [
+        "Marcou 4 gols no último Brasileirão.",
+        "Hoje defende o Palmeiras."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "victor-hugo",
+    "nome": "Victor Hugo",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Victor Hugo",
+      "nome_exibicao": "Victor Hugo",
+      "posicao": "",
+      "clube_atual": "Atlético-MG",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "dificil",
+      "pistas": [
+        "Marcou 4 gols no último Brasileirão.",
+        "Hoje defende o Atlético-MG."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "r-sosa",
+    "nome": "R. Sosa",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "nome_exibicao abreviado (\"R. Sosa\") — expandir antes de publicar",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "R. Sosa",
+      "nome_exibicao": "R. Sosa",
+      "posicao": "",
+      "clube_atual": "Palmeiras",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "dificil",
+      "pistas": [
+        "Marcou 4 gols no último Brasileirão.",
+        "Hoje defende o Palmeiras."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "david-duarte",
+    "nome": "David Duarte",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "David Duarte",
+      "nome_exibicao": "David Duarte",
+      "posicao": "",
+      "clube_atual": "Bahia",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "dificil",
+      "pistas": [
+        "Marcou 4 gols no último Brasileirão.",
+        "Hoje defende o Bahia."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "renato-kayzer",
+    "nome": "Renato Kayzer",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Renato Kayzer",
+      "nome_exibicao": "Renato Kayzer",
+      "posicao": "",
+      "clube_atual": "Vitória",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "dificil",
+      "pistas": [
+        "Marcou 4 gols no último Brasileirão.",
+        "Hoje defende o Vitória."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "j-rodriguez",
+    "nome": "J. Rodríguez",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "nome_exibicao abreviado (\"J. Rodríguez\") — expandir antes de publicar",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "J. Rodríguez",
+      "nome_exibicao": "J. Rodríguez",
+      "posicao": "",
+      "clube_atual": "Vasco da Gama",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "dificil",
+      "pistas": [
+        "Marcou 4 gols no último Brasileirão.",
+        "Hoje defende o Vasco da Gama."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "murilo",
+    "nome": "Murilo",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Murilo",
+      "nome_exibicao": "Murilo",
+      "posicao": "",
+      "clube_atual": "Palmeiras",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "dificil",
+      "pistas": [
+        "Marcou 4 gols no último Brasileirão.",
+        "Hoje defende o Palmeiras."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "nathan-fogaca",
+    "nome": "Nathan Fogaça",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Nathan Fogaça",
+      "nome_exibicao": "Nathan Fogaça",
+      "posicao": "",
+      "clube_atual": "Mirassol",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "dificil",
+      "pistas": [
+        "Marcou 2 gols no último Brasileirão.",
+        "Hoje defende o Mirassol."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "d-tchamba",
+    "nome": "D. Tchamba",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "nome_exibicao abreviado (\"D. Tchamba\") — expandir antes de publicar",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "D. Tchamba",
+      "nome_exibicao": "D. Tchamba",
+      "posicao": "",
+      "clube_atual": "Remo-PA",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "dificil",
+      "pistas": [
+        "Marcou 2 gols no último Brasileirão.",
+        "Hoje defende o Remo-PA."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "rafael-carvalheira",
+    "nome": "Rafael Carvalheira",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Rafael Carvalheira",
+      "nome_exibicao": "Rafael Carvalheira",
+      "posicao": "",
+      "clube_atual": "Chapecoense",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "dificil",
+      "pistas": [
+        "Marcou 2 gols no último Brasileirão.",
+        "Hoje defende o Chapecoense."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "everton",
+    "nome": "Everton",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Everton",
+      "nome_exibicao": "Everton",
+      "posicao": "",
+      "clube_atual": "Fluminense",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "dificil",
+      "pistas": [
+        "Marcou 2 gols no último Brasileirão.",
+        "Hoje defende o Fluminense."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "ze-rafael",
+    "nome": "Zé Rafael",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Zé Rafael",
+      "nome_exibicao": "Zé Rafael",
+      "posicao": "",
+      "clube_atual": "Santos",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "dificil",
+      "pistas": [
+        "Marcou 2 gols no último Brasileirão.",
+        "Hoje defende o Santos."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "gabriel-bontempo",
+    "nome": "Gabriel Bontempo",
+    "motivos": [
+      "posicao ausente no dado de origem",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Gabriel Bontempo",
+      "nome_exibicao": "Gabriel Bontempo",
+      "posicao": "",
+      "clube_atual": "São Paulo",
+      "copas_disputadas": [],
+      "nivel_dificuldade": "dificil",
+      "pistas": [
+        "Marcou 2 gols no último Brasileirão.",
+        "Hoje defende o São Paulo."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "joel-1930-1930",
+    "nome": "Joel",
+    "motivos": [
+      "pipeline marcou revisao_manual: true",
+      "possivel homonimo — checar se e a mesma pessoa"
+    ],
+    "registro": {
+      "nome": "Joel",
+      "nome_exibicao": "Joel (1930-1930)",
+      "posicao": "goleiro",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1930"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Joga como goleiro.",
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1930."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "joel-1958-1958",
+    "nome": "Joel",
+    "motivos": [
+      "pipeline marcou revisao_manual: true",
+      "possivel homonimo — checar se e a mesma pessoa"
+    ],
+    "registro": {
+      "nome": "Joel",
+      "nome_exibicao": "Joel (1958-1958)",
+      "posicao": "atacante",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1958"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Joga como atacante.",
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1958."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "fernando",
+    "nome": "Fernando",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Fernando",
+      "nome_exibicao": "Fernando",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1930"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1930."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "brilhante",
+    "nome": "Brilhante",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Brilhante",
+      "nome_exibicao": "Brilhante",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1930"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1930."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "italia",
+    "nome": "Itália",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Itália",
+      "nome_exibicao": "Itália",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1930"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1930."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "ze-luiz",
+    "nome": "Zé Luiz",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Zé Luiz",
+      "nome_exibicao": "Zé Luiz",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1930"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1930."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "oscarino",
+    "nome": "Oscarino",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Oscarino",
+      "nome_exibicao": "Oscarino",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1930"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1930."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "luiz-luz",
+    "nome": "Luiz Luz",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Luiz Luz",
+      "nome_exibicao": "Luiz Luz",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1934"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1934."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "octacilio",
+    "nome": "Octacílio",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Octacílio",
+      "nome_exibicao": "Octacílio",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1934"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1934."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "sylvio-hoffman",
+    "nome": "Sylvio Hoffman",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Sylvio Hoffman",
+      "nome_exibicao": "Sylvio Hoffman",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1934"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1934."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "nariz",
+    "nome": "Nariz",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Nariz",
+      "nome_exibicao": "Nariz",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1938"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1938."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "domingos-da-guia",
+    "nome": "Domingos da Guia",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Domingos da Guia",
+      "nome_exibicao": "Domingos da Guia",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1938"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1938."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "machado",
+    "nome": "Machado",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Machado",
+      "nome_exibicao": "Machado",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1938"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1938."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "jau",
+    "nome": "Jaú",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Jaú",
+      "nome_exibicao": "Jaú",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1938"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1938."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "luisinho-1938-1938",
+    "nome": "Luisinho",
+    "motivos": [
+      "pipeline marcou revisao_manual: true",
+      "possivel homonimo — checar se e a mesma pessoa"
+    ],
+    "registro": {
+      "nome": "Luisinho",
+      "nome_exibicao": "Luisinho (1938-1938)",
+      "posicao": "atacante",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1938"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Joga como atacante.",
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1938."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "luisinho-1982-1982",
+    "nome": "Luisinho",
+    "motivos": [
+      "pipeline marcou revisao_manual: true",
+      "possivel homonimo — checar se e a mesma pessoa",
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Luisinho",
+      "nome_exibicao": "Luisinho (1982-1982)",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1982"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1982."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "augusto",
+    "nome": "Augusto",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Augusto",
+      "nome_exibicao": "Augusto",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1950"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1950."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "bigode",
+    "nome": "Bigode",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Bigode",
+      "nome_exibicao": "Bigode",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1950"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1950."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "ely",
+    "nome": "Ely",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Ely",
+      "nome_exibicao": "Ely",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1950",
+        "1954"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 2 Copas do Mundo.",
+        "Esteve na Copa de 1950 e 1954."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "juvenal",
+    "nome": "Juvenal",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Juvenal",
+      "nome_exibicao": "Juvenal",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1950"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1950."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "nena",
+    "nome": "Nena",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Nena",
+      "nome_exibicao": "Nena",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1950"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1950."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "nilton-santos",
+    "nome": "Nilton Santos",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Nilton Santos",
+      "nome_exibicao": "Nilton Santos",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1950",
+        "1954",
+        "1958",
+        "1962"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 4 Copas do Mundo.",
+        "Esteve na Copa de 1950, 1954, 1958 e 1962."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "danilo-1950-1950",
+    "nome": "Danilo",
+    "motivos": [
+      "pipeline marcou revisao_manual: true",
+      "possivel homonimo — checar se e a mesma pessoa"
+    ],
+    "registro": {
+      "nome": "Danilo",
+      "nome_exibicao": "Danilo (1950-1950)",
+      "posicao": "meio-campista",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1950"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Joga como meio-campista.",
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1950."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "danilo-2018-2026",
+    "nome": "Danilo",
+    "motivos": [
+      "pipeline marcou revisao_manual: true",
+      "possivel homonimo — checar se e a mesma pessoa"
+    ],
+    "registro": {
+      "nome": "Danilo",
+      "nome_exibicao": "Danilo (2018-2026)",
+      "posicao": "meio-campista",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2018",
+        "2022",
+        "2026"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Joga como meio-campista.",
+        "Foi convocado para 3 Copas do Mundo.",
+        "Esteve na Copa de 2018, 2022 e 2026."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "pinheiro",
+    "nome": "Pinheiro",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Pinheiro",
+      "nome_exibicao": "Pinheiro",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1954"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1954."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "alfredo-ramos",
+    "nome": "Alfredo Ramos",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Alfredo Ramos",
+      "nome_exibicao": "Alfredo Ramos",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1954"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1954."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "mauro-ramos",
+    "nome": "Mauro Ramos",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Mauro Ramos",
+      "nome_exibicao": "Mauro Ramos",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1954",
+        "1958",
+        "1962"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 3 Copas do Mundo.",
+        "Esteve na Copa de 1954, 1958 e 1962."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "djalma-santos",
+    "nome": "Djalma Santos",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Djalma Santos",
+      "nome_exibicao": "Djalma Santos",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1954",
+        "1958",
+        "1962",
+        "1966"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 4 Copas do Mundo.",
+        "Esteve na Copa de 1954, 1958, 1962 e 1966."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "paulinho-de-almeida",
+    "nome": "Paulinho de Almeida",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Paulinho de Almeida",
+      "nome_exibicao": "Paulinho de Almeida",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1954"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1954."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "bellini",
+    "nome": "Bellini",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Bellini",
+      "nome_exibicao": "Bellini",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1958",
+        "1962",
+        "1966"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 3 Copas do Mundo.",
+        "Esteve na Copa de 1958, 1962 e 1966."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "zozimo",
+    "nome": "Zózimo",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Zózimo",
+      "nome_exibicao": "Zózimo",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1958",
+        "1962"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 2 Copas do Mundo.",
+        "Esteve na Copa de 1958 e 1962."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "orlando-pecanha",
+    "nome": "Orlando Peçanha",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Orlando Peçanha",
+      "nome_exibicao": "Orlando Peçanha",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1958"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1958."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "oreco",
+    "nome": "Oreco",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Oreco",
+      "nome_exibicao": "Oreco",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1958"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1958."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "de-sordi",
+    "nome": "De Sordi",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "De Sordi",
+      "nome_exibicao": "De Sordi",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1958"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1958."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "dida-1958-1958",
+    "nome": "Dida",
+    "motivos": [
+      "pipeline marcou revisao_manual: true",
+      "possivel homonimo — checar se e a mesma pessoa"
+    ],
+    "registro": {
+      "nome": "Dida",
+      "nome_exibicao": "Dida (1958-1958)",
+      "posicao": "meio-campista",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1958"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Joga como meio-campista.",
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1958."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "dida-1998-2006",
+    "nome": "Dida",
+    "motivos": [
+      "pipeline marcou revisao_manual: true",
+      "possivel homonimo — checar se e a mesma pessoa"
+    ],
+    "registro": {
+      "nome": "Dida",
+      "nome_exibicao": "Dida (1998-2006)",
+      "posicao": "goleiro",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1998",
+        "2002",
+        "2006"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Joga como goleiro.",
+        "Foi convocado para 3 Copas do Mundo.",
+        "Esteve na Copa de 1998, 2002 e 2006."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "jurandir",
+    "nome": "Jurandir",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Jurandir",
+      "nome_exibicao": "Jurandir",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1962"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1962."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "jair-marinho",
+    "nome": "Jair Marinho",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Jair Marinho",
+      "nome_exibicao": "Jair Marinho",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1962"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1962."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "altair",
+    "nome": "Altair",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Altair",
+      "nome_exibicao": "Altair",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1962",
+        "1966"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 2 Copas do Mundo.",
+        "Esteve na Copa de 1962 e 1966."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "coutinho-1962-1962",
+    "nome": "Coutinho",
+    "motivos": [
+      "pipeline marcou revisao_manual: true",
+      "possivel homonimo — checar se e a mesma pessoa"
+    ],
+    "registro": {
+      "nome": "Coutinho",
+      "nome_exibicao": "Coutinho (1962-1962)",
+      "posicao": "atacante",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1962"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Joga como atacante.",
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1962."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "coutinho-2018-2018",
+    "nome": "Coutinho",
+    "motivos": [
+      "pipeline marcou revisao_manual: true",
+      "possivel homonimo — checar se e a mesma pessoa"
+    ],
+    "registro": {
+      "nome": "Coutinho",
+      "nome_exibicao": "Coutinho (2018-2018)",
+      "posicao": "meio-campista",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2018"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Joga como meio-campista.",
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2018."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "brito",
+    "nome": "Brito",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Brito",
+      "nome_exibicao": "Brito",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1966",
+        "1970"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 2 Copas do Mundo.",
+        "Esteve na Copa de 1966 e 1970."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "orlando",
+    "nome": "Orlando",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Orlando",
+      "nome_exibicao": "Orlando",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1966"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1966."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "fidelis",
+    "nome": "Fidélis",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Fidélis",
+      "nome_exibicao": "Fidélis",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1966"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1966."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "paulo-henrique",
+    "nome": "Paulo Henrique",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Paulo Henrique",
+      "nome_exibicao": "Paulo Henrique",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1966"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1966."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "rildo",
+    "nome": "Rildo",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Rildo",
+      "nome_exibicao": "Rildo",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1966"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1966."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "denilson-1966-1966",
+    "nome": "Denílson",
+    "motivos": [
+      "pipeline marcou revisao_manual: true",
+      "possivel homonimo — checar se e a mesma pessoa"
+    ],
+    "registro": {
+      "nome": "Denílson",
+      "nome_exibicao": "Denílson (1966-1966)",
+      "posicao": "meio-campista",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1966"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Joga como meio-campista.",
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1966."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "denilson-1998-1998",
+    "nome": "Denílson",
+    "motivos": [
+      "pipeline marcou revisao_manual: true",
+      "possivel homonimo — checar se e a mesma pessoa"
+    ],
+    "registro": {
+      "nome": "Denílson",
+      "nome_exibicao": "Denílson (1998-1998)",
+      "posicao": "atacante",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1998"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Joga como atacante.",
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1998."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "baldocchi",
+    "nome": "Baldocchi",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Baldocchi",
+      "nome_exibicao": "Baldocchi",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1970"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1970."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "fontana",
+    "nome": "Fontana",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Fontana",
+      "nome_exibicao": "Fontana",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1970"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1970."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "joel-camargo",
+    "nome": "Joel Camargo",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Joel Camargo",
+      "nome_exibicao": "Joel Camargo",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1970"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1970."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "carlos-alberto-torres",
+    "nome": "Carlos Alberto Torres",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Carlos Alberto Torres",
+      "nome_exibicao": "Carlos Alberto Torres",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1970"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1970."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "everaldo",
+    "nome": "Everaldo",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Everaldo",
+      "nome_exibicao": "Everaldo",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1970"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1970."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "oscar-1978-1986",
+    "nome": "Oscar",
+    "motivos": [
+      "pipeline marcou revisao_manual: true",
+      "possivel homonimo — checar se e a mesma pessoa"
+    ],
+    "registro": {
+      "nome": "Oscar",
+      "nome_exibicao": "Oscar (1978-1986)",
+      "posicao": "zagueiro",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1978",
+        "1982",
+        "1986"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Joga como zagueiro.",
+        "Foi convocado para 3 Copas do Mundo.",
+        "Esteve na Copa de 1978, 1982 e 1986."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "oscar-2014-2014",
+    "nome": "Oscar",
+    "motivos": [
+      "pipeline marcou revisao_manual: true",
+      "possivel homonimo — checar se e a mesma pessoa"
+    ],
+    "registro": {
+      "nome": "Oscar",
+      "nome_exibicao": "Oscar (2014-2014)",
+      "posicao": "meio-campista",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2014"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Joga como meio-campista.",
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2014."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "juninho-fonseca",
+    "nome": "Juninho Fonseca",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Juninho Fonseca",
+      "nome_exibicao": "Juninho Fonseca",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1982"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1982."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "leandro",
+    "nome": "Leandro",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Leandro",
+      "nome_exibicao": "Leandro",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1982"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1982."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "junior",
+    "nome": "Júnior",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Júnior",
+      "nome_exibicao": "Júnior",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1982",
+        "1986",
+        "2002"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 3 Copas do Mundo.",
+        "Esteve na Copa de 1982, 1986 e 2002."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "edevaldo",
+    "nome": "Edevaldo",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Edevaldo",
+      "nome_exibicao": "Edevaldo",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1982"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1982."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "pedrinho",
+    "nome": "Pedrinho",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Pedrinho",
+      "nome_exibicao": "Pedrinho",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1982"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1982."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "julio-cesar-1986-2006",
+    "nome": "Júlio César",
+    "motivos": [
+      "pipeline marcou revisao_manual: true",
+      "possivel homonimo — checar se e a mesma pessoa"
+    ],
+    "registro": {
+      "nome": "Júlio César",
+      "nome_exibicao": "Júlio César (1986-2006)",
+      "posicao": "goleiro",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1986",
+        "2006"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Joga como goleiro.",
+        "Foi convocado para 2 Copas do Mundo.",
+        "Esteve na Copa de 1986 e 2006."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "julio-cesar-2010-2014",
+    "nome": "Júlio César",
+    "motivos": [
+      "pipeline marcou revisao_manual: true",
+      "possivel homonimo — checar se e a mesma pessoa"
+    ],
+    "registro": {
+      "nome": "Júlio César",
+      "nome_exibicao": "Júlio César (2010-2014)",
+      "posicao": "goleiro",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2010",
+        "2014"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Joga como goleiro.",
+        "Foi convocado para 2 Copas do Mundo.",
+        "Esteve na Copa de 2010 e 2014."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "branco",
+    "nome": "Branco",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Branco",
+      "nome_exibicao": "Branco",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1986",
+        "1990",
+        "1994"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 3 Copas do Mundo.",
+        "Esteve na Copa de 1986, 1990 e 1994."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "ze-carlos",
+    "nome": "Zé Carlos",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Zé Carlos",
+      "nome_exibicao": "Zé Carlos",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1990",
+        "1998"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 2 Copas do Mundo.",
+        "Esteve na Copa de 1990 e 1998."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "aldair",
+    "nome": "Aldair",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Aldair",
+      "nome_exibicao": "Aldair",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1990",
+        "1994",
+        "1998"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 3 Copas do Mundo.",
+        "Esteve na Copa de 1990, 1994 e 1998."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "ricardo-rocha",
+    "nome": "Ricardo Rocha",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Ricardo Rocha",
+      "nome_exibicao": "Ricardo Rocha",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1990",
+        "1994"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 2 Copas do Mundo.",
+        "Esteve na Copa de 1990 e 1994."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "jorginho",
+    "nome": "Jorginho",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Jorginho",
+      "nome_exibicao": "Jorginho",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1990",
+        "1994"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 2 Copas do Mundo.",
+        "Esteve na Copa de 1990 e 1994."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "ronaldao",
+    "nome": "Ronaldão",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Ronaldão",
+      "nome_exibicao": "Ronaldão",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1994"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1994."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "marcio-santos",
+    "nome": "Márcio Santos",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Márcio Santos",
+      "nome_exibicao": "Márcio Santos",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1994"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1994."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "cafu",
+    "nome": "Cafu",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Cafu",
+      "nome_exibicao": "Cafu",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1994",
+        "1998",
+        "2002",
+        "2006"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 4 Copas do Mundo.",
+        "Esteve na Copa de 1994, 1998, 2002 e 2006."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "junior-baiano",
+    "nome": "Júnior Baiano",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Júnior Baiano",
+      "nome_exibicao": "Júnior Baiano",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1998"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1998."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "goncalves",
+    "nome": "Gonçalves",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Gonçalves",
+      "nome_exibicao": "Gonçalves",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1998"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1998."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "andre-cruz",
+    "nome": "André Cruz",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "André Cruz",
+      "nome_exibicao": "André Cruz",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1998"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 1998."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "roberto-carlos",
+    "nome": "Roberto Carlos",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Roberto Carlos",
+      "nome_exibicao": "Roberto Carlos",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "1998",
+        "2002",
+        "2006"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 3 Copas do Mundo.",
+        "Esteve na Copa de 1998, 2002 e 2006."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "lucio",
+    "nome": "Lúcio",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Lúcio",
+      "nome_exibicao": "Lúcio",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2002",
+        "2006",
+        "2010"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 3 Copas do Mundo.",
+        "Esteve na Copa de 2002, 2006 e 2010."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "roque-junior",
+    "nome": "Roque Júnior",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Roque Júnior",
+      "nome_exibicao": "Roque Júnior",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2002"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2002."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "belletti",
+    "nome": "Belletti",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Belletti",
+      "nome_exibicao": "Belletti",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2002"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2002."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "anderson-polga",
+    "nome": "Ânderson Polga",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Ânderson Polga",
+      "nome_exibicao": "Ânderson Polga",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2002"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2002."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "juan",
+    "nome": "Juan",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Juan",
+      "nome_exibicao": "Juan",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2006",
+        "2010"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 2 Copas do Mundo.",
+        "Esteve na Copa de 2006 e 2010."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "cicinho",
+    "nome": "Cicinho",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Cicinho",
+      "nome_exibicao": "Cicinho",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2006"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2006."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "luisao",
+    "nome": "Luisão",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Luisão",
+      "nome_exibicao": "Luisão",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2006",
+        "2010"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 2 Copas do Mundo.",
+        "Esteve na Copa de 2006 e 2010."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "cris",
+    "nome": "Cris",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Cris",
+      "nome_exibicao": "Cris",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2006"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2006."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "gilberto",
+    "nome": "Gilberto",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Gilberto",
+      "nome_exibicao": "Gilberto",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2006",
+        "2010"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 2 Copas do Mundo.",
+        "Esteve na Copa de 2006 e 2010."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "maicon",
+    "nome": "Maicon",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Maicon",
+      "nome_exibicao": "Maicon",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2010",
+        "2014"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 2 Copas do Mundo.",
+        "Esteve na Copa de 2010 e 2014."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "michel-bastos",
+    "nome": "Michel Bastos",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Michel Bastos",
+      "nome_exibicao": "Michel Bastos",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2010"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2010."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "dani-alves",
+    "nome": "Dani Alves",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Dani Alves",
+      "nome_exibicao": "Dani Alves",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2010",
+        "2014"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 2 Copas do Mundo.",
+        "Esteve na Copa de 2010 e 2014."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "thiago-silva",
+    "nome": "Thiago Silva",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Thiago Silva",
+      "nome_exibicao": "Thiago Silva",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2010",
+        "2014",
+        "2018",
+        "2022"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 4 Copas do Mundo.",
+        "Esteve na Copa de 2010, 2014, 2018 e 2022."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "david-luiz",
+    "nome": "David Luiz",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "David Luiz",
+      "nome_exibicao": "David Luiz",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2014"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2014."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "marcelo",
+    "nome": "Marcelo",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Marcelo",
+      "nome_exibicao": "Marcelo",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2014",
+        "2018"
+      ],
+      "nivel_dificuldade": "facil",
+      "pistas": [
+        "Foi convocado para 2 Copas do Mundo.",
+        "Esteve na Copa de 2014 e 2018."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "dante",
+    "nome": "Dante",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Dante",
+      "nome_exibicao": "Dante",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2014"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2014."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "maxwell",
+    "nome": "Maxwell",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Maxwell",
+      "nome_exibicao": "Maxwell",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2014"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2014."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "henrique",
+    "nome": "Henrique",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Henrique",
+      "nome_exibicao": "Henrique",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2014"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2014."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "miranda",
+    "nome": "Miranda",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Miranda",
+      "nome_exibicao": "Miranda",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2018"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2018."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "geromel",
+    "nome": "Geromel",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Geromel",
+      "nome_exibicao": "Geromel",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2018"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2018."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "filipe-luis",
+    "nome": "Filipe Luís",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Filipe Luís",
+      "nome_exibicao": "Filipe Luís",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2018"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2018."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "fagner",
+    "nome": "Fagner",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Fagner",
+      "nome_exibicao": "Fagner",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2018"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2018."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "alex-telles",
+    "nome": "Alex Telles",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Alex Telles",
+      "nome_exibicao": "Alex Telles",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2022"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2022."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "daniel-alves",
+    "nome": "Daniel Alves",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Daniel Alves",
+      "nome_exibicao": "Daniel Alves",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2022"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2022."
+      ],
+      "imagem_url": ""
+    }
+  },
+  {
+    "id": "militao",
+    "nome": "Militão",
+    "motivos": [
+      "posicao \"defensor\" fora do enum da secao 7 e ambigua para mapear",
+      "so foi possivel gerar 2 pista(s); minimo 3"
+    ],
+    "registro": {
+      "nome": "Militão",
+      "nome_exibicao": "Militão",
+      "posicao": "",
+      "clube_atual": null,
+      "copas_disputadas": [
+        "2022"
+      ],
+      "nivel_dificuldade": "medio",
+      "pistas": [
+        "Foi convocado para uma Copa do Mundo.",
+        "Esteve na Copa de 2022."
+      ],
+      "imagem_url": ""
+    }
+  }
+]

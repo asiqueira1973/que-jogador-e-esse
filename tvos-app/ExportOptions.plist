@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Opcoes de exportacao do archive para a App Store. Usado por:
+    xcodebuild -exportArchive -archivePath build/QueJogadorEEsse.xcarchive \
+      -exportPath build/export -exportOptionsPlist ExportOptions.plist
+  Assinatura manual, pelo mesmo motivo do project.yml: a automatica provisiona perfil de
+  Development, que exigiria uma Apple TV registrada no time.
+-->
+<plist version="1.0">
+<dict>
+  <key>method</key>
+  <string>app-store-connect</string>
+  <key>teamID</key>
+  <string>XGZW6Y6K25</string>
+  <key>signingStyle</key>
+  <string>manual</string>
+  <key>signingCertificate</key>
+  <string>Apple Distribution</string>
+  <key>provisioningProfiles</key>
+  <dict>
+    <key>com.dablab.quejogadoreesse</key>
+    <string>Apple TV 2</string>
+  </dict>
+  <key>uploadSymbols</key>
+  <true/>
+</dict>
+</plist>

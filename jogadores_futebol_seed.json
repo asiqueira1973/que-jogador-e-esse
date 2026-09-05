@@ -1,0 +1,5261 @@
+{
+  "k_viveros": {
+    "nome": "K. Viveros",
+    "nome_exibicao": "K. Viveros",
+    "posicao": null,
+    "clube_atual": "Athletico PR",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "pedro": {
+    "nome": "Pedro",
+    "nome_exibicao": "Pedro",
+    "posicao": "atacante",
+    "clube_atual": "Flamengo",
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "carlos_vinicius": {
+    "nome": "Carlos Vinícius",
+    "nome_exibicao": "Carlos Vinícius",
+    "posicao": null,
+    "clube_atual": "Grêmio",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "john_kennedy": {
+    "nome": "John Kennedy",
+    "nome_exibicao": "John Kennedy",
+    "posicao": null,
+    "clube_atual": "Fluminense",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "gabriel_barbosa": {
+    "nome": "Gabriel Barbosa",
+    "nome_exibicao": "Gabriel Barbosa",
+    "posicao": null,
+    "clube_atual": "Santos",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "j_lopez": {
+    "nome": "J. López",
+    "nome_exibicao": "J. López",
+    "posicao": null,
+    "clube_atual": "Palmeiras",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "breno_lopes": {
+    "nome": "Breno Lopes",
+    "nome_exibicao": "Breno Lopes",
+    "posicao": null,
+    "clube_atual": "Coritiba",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "samuel_lino": {
+    "nome": "Samuel Lino",
+    "nome_exibicao": "Samuel Lino",
+    "posicao": null,
+    "clube_atual": "Flamengo",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "danilo_santos": {
+    "nome": "Danilo Santos",
+    "nome_exibicao": "Danilo Santos",
+    "posicao": null,
+    "clube_atual": "Botafogo",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "danilo_santos_2": {
+    "nome": "Danilo Santos",
+    "nome_exibicao": "Danilo Santos",
+    "posicao": null,
+    "clube_atual": "Botafogo",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "dificil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "jaja": {
+    "nome": "Jajá",
+    "nome_exibicao": "Jajá",
+    "posicao": null,
+    "clube_atual": "Remo-PA",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "luciano": {
+    "nome": "Luciano",
+    "nome_exibicao": "Luciano",
+    "posicao": null,
+    "clube_atual": "São Paulo",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "j_calleri": {
+    "nome": "J. Calleri",
+    "nome_exibicao": "J. Calleri",
+    "posicao": null,
+    "clube_atual": "São Paulo",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "arthur_cabral": {
+    "nome": "Arthur Cabral",
+    "nome_exibicao": "Arthur Cabral",
+    "posicao": null,
+    "clube_atual": "Botafogo",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "luciano_juba": {
+    "nome": "Luciano Juba",
+    "nome_exibicao": "Luciano Juba",
+    "posicao": null,
+    "clube_atual": "Bahia",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "mauricio": {
+    "nome": "Mauricio",
+    "nome_exibicao": "Mauricio",
+    "posicao": null,
+    "clube_atual": "Palmeiras",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "pedro_rocha": {
+    "nome": "Pedro Rocha",
+    "nome_exibicao": "Pedro Rocha",
+    "posicao": null,
+    "clube_atual": "Coritiba",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "neymar": {
+    "nome": "Neymar",
+    "nome_exibicao": "Neymar",
+    "posicao": "atacante",
+    "clube_atual": "Santos",
+    "copas_disputadas": [
+      "2014",
+      "2018",
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "kaio_jorge": {
+    "nome": "Kaio Jorge",
+    "nome_exibicao": "Kaio Jorge",
+    "posicao": null,
+    "clube_atual": "Cruzeiro",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "matheus_pereira": {
+    "nome": "Matheus Pereira",
+    "nome_exibicao": "Matheus Pereira",
+    "posicao": null,
+    "clube_atual": "Cruzeiro",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "j_carbonero": {
+    "nome": "J. Carbonero",
+    "nome_exibicao": "J. Carbonero",
+    "posicao": null,
+    "clube_atual": "Internacional",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "hulk": {
+    "nome": "Hulk",
+    "nome_exibicao": "Hulk",
+    "posicao": "atacante",
+    "clube_atual": "Fluminense",
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "rene": {
+    "nome": "Renê",
+    "nome_exibicao": "Renê",
+    "posicao": null,
+    "clube_atual": "Vitória",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "christian": {
+    "nome": "Christian",
+    "nome_exibicao": "Christian",
+    "posicao": null,
+    "clube_atual": "Cruzeiro",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "j_carrascal": {
+    "nome": "J. Carrascal",
+    "nome_exibicao": "J. Carrascal",
+    "posicao": null,
+    "clube_atual": "Flamengo",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "a_canobbio": {
+    "nome": "A. Canobbio",
+    "nome_exibicao": "A. Canobbio",
+    "posicao": null,
+    "clube_atual": "Fluminense",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "a_barreal": {
+    "nome": "Á. Barreal",
+    "nome_exibicao": "Á. Barreal",
+    "posicao": null,
+    "clube_atual": "Santos",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "i_pitta": {
+    "nome": "I. Pitta",
+    "nome_exibicao": "I. Pitta",
+    "posicao": null,
+    "clube_atual": "Red Bull Bragantino",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "j_lavega": {
+    "nome": "J. Lavega",
+    "nome_exibicao": "J. Lavega",
+    "posicao": null,
+    "clube_atual": "Coritiba",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "alef_manga": {
+    "nome": "Alef Manga",
+    "nome_exibicao": "Alef Manga",
+    "posicao": null,
+    "clube_atual": "Remo-PA",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "s_mendoza": {
+    "nome": "S. Mendoza",
+    "nome_exibicao": "S. Mendoza",
+    "posicao": null,
+    "clube_atual": "Athletico PR",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "vitor_roque": {
+    "nome": "Vitor Roque",
+    "nome_exibicao": "Vitor Roque",
+    "posicao": null,
+    "clube_atual": "Palmeiras",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "dificil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "gabriel_taliari": {
+    "nome": "Gabriel Taliari",
+    "nome_exibicao": "Gabriel Taliari",
+    "posicao": null,
+    "clube_atual": "Remo-PA",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "dificil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "lucas_paqueta": {
+    "nome": "Lucas Paquetá",
+    "nome_exibicao": "Lucas Paquetá",
+    "posicao": "meio-campista",
+    "clube_atual": "Flamengo",
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "eduardo": {
+    "nome": "Eduardo",
+    "nome_exibicao": "Eduardo",
+    "posicao": null,
+    "clube_atual": "Mirassol",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "dificil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "j_arias": {
+    "nome": "J. Arias",
+    "nome_exibicao": "J. Arias",
+    "posicao": null,
+    "clube_atual": "Palmeiras",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "dificil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "victor_hugo": {
+    "nome": "Victor Hugo",
+    "nome_exibicao": "Victor Hugo",
+    "posicao": null,
+    "clube_atual": "Atlético-MG",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "dificil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "r_sosa": {
+    "nome": "R. Sosa",
+    "nome_exibicao": "R. Sosa",
+    "posicao": null,
+    "clube_atual": "Palmeiras",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "dificil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "david_duarte": {
+    "nome": "David Duarte",
+    "nome_exibicao": "David Duarte",
+    "posicao": null,
+    "clube_atual": "Bahia",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "dificil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "renato_kayzer": {
+    "nome": "Renato Kayzer",
+    "nome_exibicao": "Renato Kayzer",
+    "posicao": null,
+    "clube_atual": "Vitória",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "dificil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "j_rodriguez": {
+    "nome": "J. Rodríguez",
+    "nome_exibicao": "J. Rodríguez",
+    "posicao": null,
+    "clube_atual": "Vasco da Gama",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "dificil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "murilo": {
+    "nome": "Murilo",
+    "nome_exibicao": "Murilo",
+    "posicao": null,
+    "clube_atual": "Palmeiras",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "dificil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "nathan_fogaca": {
+    "nome": "Nathan Fogaça",
+    "nome_exibicao": "Nathan Fogaça",
+    "posicao": null,
+    "clube_atual": "Mirassol",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "dificil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "d_tchamba": {
+    "nome": "D. Tchamba",
+    "nome_exibicao": "D. Tchamba",
+    "posicao": null,
+    "clube_atual": "Remo-PA",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "dificil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "rafael_carvalheira": {
+    "nome": "Rafael Carvalheira",
+    "nome_exibicao": "Rafael Carvalheira",
+    "posicao": null,
+    "clube_atual": "Chapecoense",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "dificil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "everton": {
+    "nome": "Everton",
+    "nome_exibicao": "Everton",
+    "posicao": null,
+    "clube_atual": "Fluminense",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "dificil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ze_rafael": {
+    "nome": "Zé Rafael",
+    "nome_exibicao": "Zé Rafael",
+    "posicao": null,
+    "clube_atual": "Santos",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "dificil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "gabriel_bontempo": {
+    "nome": "Gabriel Bontempo",
+    "nome_exibicao": "Gabriel Bontempo",
+    "posicao": null,
+    "clube_atual": "São Paulo",
+    "copas_disputadas": [],
+    "nivel_dificuldade": "dificil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "joel_1930_1930": {
+    "nome": "Joel",
+    "nome_exibicao": "Joel (1930-1930)",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": true,
+    "revisao_manual": true,
+    "imagem_url": null
+  },
+  "joel_1958_1958": {
+    "nome": "Joel",
+    "nome_exibicao": "Joel (1958-1958)",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": true,
+    "revisao_manual": true,
+    "imagem_url": null
+  },
+  "velloso": {
+    "nome": "Velloso",
+    "nome_exibicao": "Velloso",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "fernando": {
+    "nome": "Fernando",
+    "nome_exibicao": "Fernando",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "brilhante": {
+    "nome": "Brilhante",
+    "nome_exibicao": "Brilhante",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "italia": {
+    "nome": "Itália",
+    "nome_exibicao": "Itália",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ze_luiz": {
+    "nome": "Zé Luiz",
+    "nome_exibicao": "Zé Luiz",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "oscarino": {
+    "nome": "Oscarino",
+    "nome_exibicao": "Oscarino",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ivan_mariz": {
+    "nome": "Ivan Mariz",
+    "nome_exibicao": "Ivan Mariz",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "fortes": {
+    "nome": "Fortes",
+    "nome_exibicao": "Fortes",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "pamplona": {
+    "nome": "Pamplona",
+    "nome_exibicao": "Pamplona",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "fausto": {
+    "nome": "Fausto",
+    "nome_exibicao": "Fausto",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "benevenuto": {
+    "nome": "Benevenuto",
+    "nome_exibicao": "Benevenuto",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "hermogenes": {
+    "nome": "Hermógenes",
+    "nome_exibicao": "Hermógenes",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "preguinho": {
+    "nome": "Preguinho",
+    "nome_exibicao": "Preguinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "nilo": {
+    "nome": "Nilo",
+    "nome_exibicao": "Nilo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "benedicto": {
+    "nome": "Benedicto",
+    "nome_exibicao": "Benedicto",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "carvalho_leite": {
+    "nome": "Carvalho Leite",
+    "nome_exibicao": "Carvalho Leite",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930",
+      "1934"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "russinho": {
+    "nome": "Russinho",
+    "nome_exibicao": "Russinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "theophilo": {
+    "nome": "Theóphilo",
+    "nome_exibicao": "Theóphilo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "doca": {
+    "nome": "Doca",
+    "nome_exibicao": "Doca",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "moderato": {
+    "nome": "Moderato",
+    "nome_exibicao": "Moderato",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "poly": {
+    "nome": "Poly",
+    "nome_exibicao": "Poly",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "manoelzinho": {
+    "nome": "Manoelzinho",
+    "nome_exibicao": "Manoelzinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "araken_patusca": {
+    "nome": "Araken Patusca",
+    "nome_exibicao": "Araken Patusca",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1930"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "germano": {
+    "nome": "Germano",
+    "nome_exibicao": "Germano",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "roberto_gomes_pedrosa": {
+    "nome": "Roberto Gomes Pedrosa",
+    "nome_exibicao": "Roberto Gomes Pedrosa",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "luiz_luz": {
+    "nome": "Luiz Luz",
+    "nome_exibicao": "Luiz Luz",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "octacilio": {
+    "nome": "Octacílio",
+    "nome_exibicao": "Octacílio",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "sylvio_hoffman": {
+    "nome": "Sylvio Hoffman",
+    "nome_exibicao": "Sylvio Hoffman",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "tinoco": {
+    "nome": "Tinoco",
+    "nome_exibicao": "Tinoco",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "martim": {
+    "nome": "Martim",
+    "nome_exibicao": "Martim",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934",
+      "1938"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "canalli": {
+    "nome": "Canalli",
+    "nome_exibicao": "Canalli",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ariel": {
+    "nome": "Ariel",
+    "nome_exibicao": "Ariel",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "waldir": {
+    "nome": "Waldir",
+    "nome_exibicao": "Waldir",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "luizinho": {
+    "nome": "Luizinho",
+    "nome_exibicao": "Luizinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "waldemar_de_britto": {
+    "nome": "Waldemar de Britto",
+    "nome_exibicao": "Waldemar de Britto",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "armandinho": {
+    "nome": "Armandinho",
+    "nome_exibicao": "Armandinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "leonidas_da_silva": {
+    "nome": "Leônidas da Silva",
+    "nome_exibicao": "Leônidas da Silva",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934",
+      "1938"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "attila": {
+    "nome": "Áttila",
+    "nome_exibicao": "Áttila",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "patesko": {
+    "nome": "Patesko",
+    "nome_exibicao": "Patesko",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1934",
+      "1938"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "walter": {
+    "nome": "Walter",
+    "nome_exibicao": "Walter",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "batatais": {
+    "nome": "Batatais",
+    "nome_exibicao": "Batatais",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "nariz": {
+    "nome": "Nariz",
+    "nome_exibicao": "Nariz",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "domingos_da_guia": {
+    "nome": "Domingos da Guia",
+    "nome_exibicao": "Domingos da Guia",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "machado": {
+    "nome": "Machado",
+    "nome_exibicao": "Machado",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "jau": {
+    "nome": "Jaú",
+    "nome_exibicao": "Jaú",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "britto": {
+    "nome": "Britto",
+    "nome_exibicao": "Britto",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "zeze_procopio": {
+    "nome": "Zezé Procópio",
+    "nome_exibicao": "Zezé Procópio",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "brandao": {
+    "nome": "Brandão",
+    "nome_exibicao": "Brandão",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "argemiro": {
+    "nome": "Argemiro",
+    "nome_exibicao": "Argemiro",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "affonsinho": {
+    "nome": "Affonsinho",
+    "nome_exibicao": "Affonsinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "peracio": {
+    "nome": "Perácio",
+    "nome_exibicao": "Perácio",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "lopes": {
+    "nome": "Lopes",
+    "nome_exibicao": "Lopes",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "hercules": {
+    "nome": "Hércules",
+    "nome_exibicao": "Hércules",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "romeu": {
+    "nome": "Romeu",
+    "nome_exibicao": "Romeu",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "tim": {
+    "nome": "Tim",
+    "nome_exibicao": "Tim",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "luisinho_1938_1938": {
+    "nome": "Luisinho",
+    "nome_exibicao": "Luisinho (1938-1938)",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": true,
+    "revisao_manual": true,
+    "imagem_url": null
+  },
+  "luisinho_1982_1982": {
+    "nome": "Luisinho",
+    "nome_exibicao": "Luisinho (1982-1982)",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": true,
+    "revisao_manual": true,
+    "imagem_url": null
+  },
+  "roberto": {
+    "nome": "Roberto",
+    "nome_exibicao": "Roberto",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "niginho": {
+    "nome": "Niginho",
+    "nome_exibicao": "Niginho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1938"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "barbosa": {
+    "nome": "Barbosa",
+    "nome_exibicao": "Barbosa",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "castilho": {
+    "nome": "Castilho",
+    "nome_exibicao": "Castilho",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950",
+      "1954",
+      "1958",
+      "1962"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "augusto": {
+    "nome": "Augusto",
+    "nome_exibicao": "Augusto",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "bigode": {
+    "nome": "Bigode",
+    "nome_exibicao": "Bigode",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ely": {
+    "nome": "Ely",
+    "nome_exibicao": "Ely",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950",
+      "1954"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "juvenal": {
+    "nome": "Juvenal",
+    "nome_exibicao": "Juvenal",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "nena": {
+    "nome": "Nena",
+    "nome_exibicao": "Nena",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "nilton_santos": {
+    "nome": "Nilton Santos",
+    "nome_exibicao": "Nilton Santos",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950",
+      "1954",
+      "1958",
+      "1962"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "bauer": {
+    "nome": "Bauer",
+    "nome_exibicao": "Bauer",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950",
+      "1954"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "danilo_1950_1950": {
+    "nome": "Danilo",
+    "nome_exibicao": "Danilo (1950-1950)",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": true,
+    "revisao_manual": true,
+    "imagem_url": null
+  },
+  "danilo_2018_2026": {
+    "nome": "Danilo",
+    "nome_exibicao": "Danilo (2018-2026)",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018",
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": true,
+    "revisao_manual": true,
+    "imagem_url": null
+  },
+  "noronha": {
+    "nome": "Noronha",
+    "nome_exibicao": "Noronha",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "rui": {
+    "nome": "Rui",
+    "nome_exibicao": "Rui",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "zizinho": {
+    "nome": "Zizinho",
+    "nome_exibicao": "Zizinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "adaozinho": {
+    "nome": "Adãozinho",
+    "nome_exibicao": "Adãozinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ademir_de_menezes": {
+    "nome": "Ademir de Menezes",
+    "nome_exibicao": "Ademir de Menezes",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "alfredo": {
+    "nome": "Alfredo",
+    "nome_exibicao": "Alfredo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "baltazar": {
+    "nome": "Baltazar",
+    "nome_exibicao": "Baltazar",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950",
+      "1954"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "chico": {
+    "nome": "Chico",
+    "nome_exibicao": "Chico",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "friaca": {
+    "nome": "Friaça",
+    "nome_exibicao": "Friaça",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "jair_rosa_pinto": {
+    "nome": "Jair Rosa Pinto",
+    "nome_exibicao": "Jair Rosa Pinto",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "maneca": {
+    "nome": "Maneca",
+    "nome_exibicao": "Maneca",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "rodrigues": {
+    "nome": "Rodrigues",
+    "nome_exibicao": "Rodrigues",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1950",
+      "1954"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "veludo": {
+    "nome": "Veludo",
+    "nome_exibicao": "Veludo",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "cabecao": {
+    "nome": "Cabeção",
+    "nome_exibicao": "Cabeção",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "pinheiro": {
+    "nome": "Pinheiro",
+    "nome_exibicao": "Pinheiro",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "alfredo_ramos": {
+    "nome": "Alfredo Ramos",
+    "nome_exibicao": "Alfredo Ramos",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "mauro_ramos": {
+    "nome": "Mauro Ramos",
+    "nome_exibicao": "Mauro Ramos",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954",
+      "1958",
+      "1962"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "djalma_santos": {
+    "nome": "Djalma Santos",
+    "nome_exibicao": "Djalma Santos",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954",
+      "1958",
+      "1962",
+      "1966"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "paulinho_de_almeida": {
+    "nome": "Paulinho de Almeida",
+    "nome_exibicao": "Paulinho de Almeida",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "brandaozinho": {
+    "nome": "Brandãozinho",
+    "nome_exibicao": "Brandãozinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "didi": {
+    "nome": "Didi",
+    "nome_exibicao": "Didi",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954",
+      "1958",
+      "1962"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "dequinha": {
+    "nome": "Dequinha",
+    "nome_exibicao": "Dequinha",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "rubens": {
+    "nome": "Rubens",
+    "nome_exibicao": "Rubens",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "julinho_botelho": {
+    "nome": "Julinho Botelho",
+    "nome_exibicao": "Julinho Botelho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "pinga": {
+    "nome": "Pinga",
+    "nome_exibicao": "Pinga",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "maurinho": {
+    "nome": "Maurinho",
+    "nome_exibicao": "Maurinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "humberto": {
+    "nome": "Humberto",
+    "nome_exibicao": "Humberto",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "indio": {
+    "nome": "Índio",
+    "nome_exibicao": "Índio",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1954"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "gylmar": {
+    "nome": "Gylmar",
+    "nome_exibicao": "Gylmar",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958",
+      "1962",
+      "1966"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "bellini": {
+    "nome": "Bellini",
+    "nome_exibicao": "Bellini",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958",
+      "1962",
+      "1966"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "zozimo": {
+    "nome": "Zózimo",
+    "nome_exibicao": "Zózimo",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958",
+      "1962"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "orlando_pecanha": {
+    "nome": "Orlando Peçanha",
+    "nome_exibicao": "Orlando Peçanha",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "oreco": {
+    "nome": "Oreco",
+    "nome_exibicao": "Oreco",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "de_sordi": {
+    "nome": "De Sordi",
+    "nome_exibicao": "De Sordi",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "dino_sani": {
+    "nome": "Dino Sani",
+    "nome_exibicao": "Dino Sani",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "moacir": {
+    "nome": "Moacir",
+    "nome_exibicao": "Moacir",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "zito": {
+    "nome": "Zito",
+    "nome_exibicao": "Zito",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958",
+      "1962",
+      "1966"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "dida_1958_1958": {
+    "nome": "Dida",
+    "nome_exibicao": "Dida (1958-1958)",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": true,
+    "revisao_manual": true,
+    "imagem_url": null
+  },
+  "dida_1998_2006": {
+    "nome": "Dida",
+    "nome_exibicao": "Dida (1998-2006)",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998",
+      "2002",
+      "2006"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": true,
+    "revisao_manual": true,
+    "imagem_url": null
+  },
+  "zagallo": {
+    "nome": "Zagallo",
+    "nome_exibicao": "Zagallo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958",
+      "1962"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "pele": {
+    "nome": "Pelé",
+    "nome_exibicao": "Pelé",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958",
+      "1962",
+      "1966",
+      "1970"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "garrincha": {
+    "nome": "Garrincha",
+    "nome_exibicao": "Garrincha",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958",
+      "1962",
+      "1966"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "mazzola": {
+    "nome": "Mazzola",
+    "nome_exibicao": "Mazzola",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "vava": {
+    "nome": "Vavá",
+    "nome_exibicao": "Vavá",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958",
+      "1962"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "pepe": {
+    "nome": "Pepe",
+    "nome_exibicao": "Pepe",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1958",
+      "1962"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "jurandir": {
+    "nome": "Jurandir",
+    "nome_exibicao": "Jurandir",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1962"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "jair_marinho": {
+    "nome": "Jair Marinho",
+    "nome_exibicao": "Jair Marinho",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1962"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "altair": {
+    "nome": "Altair",
+    "nome_exibicao": "Altair",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1962",
+      "1966"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "zequinha": {
+    "nome": "Zequinha",
+    "nome_exibicao": "Zequinha",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1962"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "mengalvio": {
+    "nome": "Mengálvio",
+    "nome_exibicao": "Mengálvio",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1962"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "coutinho_1962_1962": {
+    "nome": "Coutinho",
+    "nome_exibicao": "Coutinho (1962-1962)",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1962"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": true,
+    "revisao_manual": true,
+    "imagem_url": null
+  },
+  "coutinho_2018_2018": {
+    "nome": "Coutinho",
+    "nome_exibicao": "Coutinho (2018-2018)",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": true,
+    "revisao_manual": true,
+    "imagem_url": null
+  },
+  "jair_da_costa": {
+    "nome": "Jair da Costa",
+    "nome_exibicao": "Jair da Costa",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1962"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "amarildo": {
+    "nome": "Amarildo",
+    "nome_exibicao": "Amarildo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1962"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "manga": {
+    "nome": "Manga",
+    "nome_exibicao": "Manga",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "brito": {
+    "nome": "Brito",
+    "nome_exibicao": "Brito",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966",
+      "1970"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "orlando": {
+    "nome": "Orlando",
+    "nome_exibicao": "Orlando",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "fidelis": {
+    "nome": "Fidélis",
+    "nome_exibicao": "Fidélis",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "paulo_henrique": {
+    "nome": "Paulo Henrique",
+    "nome_exibicao": "Paulo Henrique",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "rildo": {
+    "nome": "Rildo",
+    "nome_exibicao": "Rildo",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "gerson": {
+    "nome": "Gérson",
+    "nome_exibicao": "Gérson",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966",
+      "1970"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "denilson_1966_1966": {
+    "nome": "Denílson",
+    "nome_exibicao": "Denílson (1966-1966)",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": true,
+    "revisao_manual": true,
+    "imagem_url": null
+  },
+  "denilson_1998_1998": {
+    "nome": "Denílson",
+    "nome_exibicao": "Denílson (1998-1998)",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": true,
+    "revisao_manual": true,
+    "imagem_url": null
+  },
+  "lima": {
+    "nome": "Lima",
+    "nome_exibicao": "Lima",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "jairzinho": {
+    "nome": "Jairzinho",
+    "nome_exibicao": "Jairzinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966",
+      "1970",
+      "1974"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "alcindo": {
+    "nome": "Alcindo",
+    "nome_exibicao": "Alcindo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "silva": {
+    "nome": "Silva",
+    "nome_exibicao": "Silva",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "tostao": {
+    "nome": "Tostão",
+    "nome_exibicao": "Tostão",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966",
+      "1970"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "parana": {
+    "nome": "Paraná",
+    "nome_exibicao": "Paraná",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "edu": {
+    "nome": "Edu",
+    "nome_exibicao": "Edu",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1966",
+      "1970",
+      "1974"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "felix": {
+    "nome": "Félix",
+    "nome_exibicao": "Félix",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ado": {
+    "nome": "Ado",
+    "nome_exibicao": "Ado",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "emerson_leao": {
+    "nome": "Emerson Leão",
+    "nome_exibicao": "Emerson Leão",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970",
+      "1974",
+      "1978",
+      "1986"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "baldocchi": {
+    "nome": "Baldocchi",
+    "nome_exibicao": "Baldocchi",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "fontana": {
+    "nome": "Fontana",
+    "nome_exibicao": "Fontana",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "joel_camargo": {
+    "nome": "Joel Camargo",
+    "nome_exibicao": "Joel Camargo",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "carlos_alberto_torres": {
+    "nome": "Carlos Alberto Torres",
+    "nome_exibicao": "Carlos Alberto Torres",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "marco_antonio": {
+    "nome": "Marco Antônio",
+    "nome_exibicao": "Marco Antônio",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970",
+      "1974"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "everaldo": {
+    "nome": "Everaldo",
+    "nome_exibicao": "Everaldo",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ze_maria": {
+    "nome": "Zé Maria",
+    "nome_exibicao": "Zé Maria",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970",
+      "1974"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "wilson_piazza": {
+    "nome": "Wilson Piazza",
+    "nome_exibicao": "Wilson Piazza",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970",
+      "1974"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "clodoaldo": {
+    "nome": "Clodoaldo",
+    "nome_exibicao": "Clodoaldo",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "rivellino": {
+    "nome": "Rivellino",
+    "nome_exibicao": "Rivellino",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970",
+      "1974",
+      "1978"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "roberto_miranda": {
+    "nome": "Roberto Miranda",
+    "nome_exibicao": "Roberto Miranda",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "paulo_cesar_caju": {
+    "nome": "Paulo César Caju",
+    "nome_exibicao": "Paulo César Caju",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970",
+      "1974"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "dada_maravilha": {
+    "nome": "Dadá Maravilha",
+    "nome_exibicao": "Dadá Maravilha",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1970"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "renato": {
+    "nome": "Renato",
+    "nome_exibicao": "Renato",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974",
+      "1982"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "waldir_peres": {
+    "nome": "Waldir Peres",
+    "nome_exibicao": "Waldir Peres",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974",
+      "1978",
+      "1982"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "luis_pereira": {
+    "nome": "Luís Pereira",
+    "nome_exibicao": "Luís Pereira",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "marinho_peres": {
+    "nome": "Marinho Peres",
+    "nome_exibicao": "Marinho Peres",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "alfredo_mostarda": {
+    "nome": "Alfredo Mostarda",
+    "nome_exibicao": "Alfredo Mostarda",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "marinho_chagas": {
+    "nome": "Marinho Chagas",
+    "nome_exibicao": "Marinho Chagas",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "nelinho": {
+    "nome": "Nelinho",
+    "nome_exibicao": "Nelinho",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974",
+      "1978"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "paulo_cesar_carpegiani": {
+    "nome": "Paulo César Carpegiani",
+    "nome_exibicao": "Paulo César Carpegiani",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ademir_da_guia": {
+    "nome": "Ademir da Guia",
+    "nome_exibicao": "Ademir da Guia",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "leivinha": {
+    "nome": "Leivinha",
+    "nome_exibicao": "Leivinha",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "cesar_maluco": {
+    "nome": "César Maluco",
+    "nome_exibicao": "César Maluco",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "valdomiro": {
+    "nome": "Valdomiro",
+    "nome_exibicao": "Valdomiro",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "mirandinha": {
+    "nome": "Mirandinha",
+    "nome_exibicao": "Mirandinha",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "dirceu": {
+    "nome": "Dirceu",
+    "nome_exibicao": "Dirceu",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1974",
+      "1978",
+      "1982"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "carlos": {
+    "nome": "Carlos",
+    "nome_exibicao": "Carlos",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978",
+      "1982",
+      "1986"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "oscar_1978_1986": {
+    "nome": "Oscar",
+    "nome_exibicao": "Oscar (1978-1986)",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978",
+      "1982",
+      "1986"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": true,
+    "revisao_manual": true,
+    "imagem_url": null
+  },
+  "oscar_2014_2014": {
+    "nome": "Oscar",
+    "nome_exibicao": "Oscar (2014-2014)",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": true,
+    "revisao_manual": true,
+    "imagem_url": null
+  },
+  "amaral": {
+    "nome": "Amaral",
+    "nome_exibicao": "Amaral",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "edinho": {
+    "nome": "Edinho",
+    "nome_exibicao": "Edinho",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978",
+      "1982",
+      "1986"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "abel_braga": {
+    "nome": "Abel Braga",
+    "nome_exibicao": "Abel Braga",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "polozzi": {
+    "nome": "Polozzi",
+    "nome_exibicao": "Polozzi",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "toninho": {
+    "nome": "Toninho",
+    "nome_exibicao": "Toninho",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "rodrigues_neto": {
+    "nome": "Rodrigues Neto",
+    "nome_exibicao": "Rodrigues Neto",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "toninho_cerezo": {
+    "nome": "Toninho Cerezo",
+    "nome_exibicao": "Toninho Cerezo",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978",
+      "1982"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "zico": {
+    "nome": "Zico",
+    "nome_exibicao": "Zico",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978",
+      "1982",
+      "1986"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "batista": {
+    "nome": "Batista",
+    "nome_exibicao": "Batista",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978",
+      "1982"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "chicao": {
+    "nome": "Chicão",
+    "nome_exibicao": "Chicão",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ze_sergio": {
+    "nome": "Zé Sérgio",
+    "nome_exibicao": "Zé Sérgio",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "reinaldo": {
+    "nome": "Reinaldo",
+    "nome_exibicao": "Reinaldo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "gil": {
+    "nome": "Gil",
+    "nome_exibicao": "Gil",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "jorge_mendonca": {
+    "nome": "Jorge Mendonça",
+    "nome_exibicao": "Jorge Mendonça",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "roberto_dinamite": {
+    "nome": "Roberto Dinamite",
+    "nome_exibicao": "Roberto Dinamite",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1978",
+      "1982"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "paulo_sergio": {
+    "nome": "Paulo Sérgio",
+    "nome_exibicao": "Paulo Sérgio",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982",
+      "1994"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "juninho_fonseca": {
+    "nome": "Juninho Fonseca",
+    "nome_exibicao": "Juninho Fonseca",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "leandro": {
+    "nome": "Leandro",
+    "nome_exibicao": "Leandro",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "junior": {
+    "nome": "Júnior",
+    "nome_exibicao": "Júnior",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982",
+      "1986",
+      "2002"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "edevaldo": {
+    "nome": "Edevaldo",
+    "nome_exibicao": "Edevaldo",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "pedrinho": {
+    "nome": "Pedrinho",
+    "nome_exibicao": "Pedrinho",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "socrates": {
+    "nome": "Sócrates",
+    "nome_exibicao": "Sócrates",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982",
+      "1986"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "falcao": {
+    "nome": "Falcão",
+    "nome_exibicao": "Falcão",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982",
+      "1986"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "paulo_isidoro": {
+    "nome": "Paulo Isidoro",
+    "nome_exibicao": "Paulo Isidoro",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "serginho_chulapa": {
+    "nome": "Serginho Chulapa",
+    "nome_exibicao": "Serginho Chulapa",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "eder_aleixo": {
+    "nome": "Éder Aleixo",
+    "nome_exibicao": "Éder Aleixo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1982"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "paulo_victor": {
+    "nome": "Paulo Victor",
+    "nome_exibicao": "Paulo Victor",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "julio_cesar_1986_2006": {
+    "nome": "Júlio César",
+    "nome_exibicao": "Júlio César (1986-2006)",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986",
+      "2006"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": true,
+    "revisao_manual": true,
+    "imagem_url": null
+  },
+  "julio_cesar_2010_2014": {
+    "nome": "Júlio César",
+    "nome_exibicao": "Júlio César (2010-2014)",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010",
+      "2014"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": true,
+    "revisao_manual": true,
+    "imagem_url": null
+  },
+  "mauro_galvao": {
+    "nome": "Mauro Galvão",
+    "nome_exibicao": "Mauro Galvão",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986",
+      "1990"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "edson": {
+    "nome": "Édson",
+    "nome_exibicao": "Édson",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "josimar": {
+    "nome": "Josimar",
+    "nome_exibicao": "Josimar",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "branco": {
+    "nome": "Branco",
+    "nome_exibicao": "Branco",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986",
+      "1990",
+      "1994"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "alemao": {
+    "nome": "Alemão",
+    "nome_exibicao": "Alemão",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986",
+      "1990"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "elzo": {
+    "nome": "Elzo",
+    "nome_exibicao": "Elzo",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "silas": {
+    "nome": "Silas",
+    "nome_exibicao": "Silas",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986",
+      "1990"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "valdo": {
+    "nome": "Valdo",
+    "nome_exibicao": "Valdo",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986",
+      "1990"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "muller": {
+    "nome": "Muller",
+    "nome_exibicao": "Muller",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986",
+      "1990",
+      "1994"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "casagrande": {
+    "nome": "Casagrande",
+    "nome_exibicao": "Casagrande",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "careca": {
+    "nome": "Careca",
+    "nome_exibicao": "Careca",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986",
+      "1990"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "edivaldo": {
+    "nome": "Edivaldo",
+    "nome_exibicao": "Edivaldo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1986"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "taffarel": {
+    "nome": "Taffarel",
+    "nome_exibicao": "Taffarel",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990",
+      "1994",
+      "1998"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "acacio": {
+    "nome": "Acácio",
+    "nome_exibicao": "Acácio",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ze_carlos": {
+    "nome": "Zé Carlos",
+    "nome_exibicao": "Zé Carlos",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990",
+      "1998"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ricardo_gomes": {
+    "nome": "Ricardo Gomes",
+    "nome_exibicao": "Ricardo Gomes",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "mozer": {
+    "nome": "Mozer",
+    "nome_exibicao": "Mozer",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "aldair": {
+    "nome": "Aldair",
+    "nome_exibicao": "Aldair",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990",
+      "1994",
+      "1998"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ricardo_rocha": {
+    "nome": "Ricardo Rocha",
+    "nome_exibicao": "Ricardo Rocha",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990",
+      "1994"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "jorginho": {
+    "nome": "Jorginho",
+    "nome_exibicao": "Jorginho",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990",
+      "1994"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "mazinho": {
+    "nome": "Mazinho",
+    "nome_exibicao": "Mazinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990",
+      "1994"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "dunga": {
+    "nome": "Dunga",
+    "nome_exibicao": "Dunga",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990",
+      "1994",
+      "1998"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "bismarck": {
+    "nome": "Bismarck",
+    "nome_exibicao": "Bismarck",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "tita": {
+    "nome": "Tita",
+    "nome_exibicao": "Tita",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "romario": {
+    "nome": "Romário",
+    "nome_exibicao": "Romário",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990",
+      "1994"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "bebeto": {
+    "nome": "Bebeto",
+    "nome_exibicao": "Bebeto",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990",
+      "1994",
+      "1998"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "renato_gaucho": {
+    "nome": "Renato Gaúcho",
+    "nome_exibicao": "Renato Gaúcho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1990"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "zetti": {
+    "nome": "Zetti",
+    "nome_exibicao": "Zetti",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "gilmar_rinaldi": {
+    "nome": "Gilmar Rinaldi",
+    "nome_exibicao": "Gilmar Rinaldi",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ronaldao": {
+    "nome": "Ronaldão",
+    "nome_exibicao": "Ronaldão",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "marcio_santos": {
+    "nome": "Márcio Santos",
+    "nome_exibicao": "Márcio Santos",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "cafu": {
+    "nome": "Cafu",
+    "nome_exibicao": "Cafu",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994",
+      "1998",
+      "2002",
+      "2006"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "leonardo": {
+    "nome": "Leonardo",
+    "nome_exibicao": "Leonardo",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994",
+      "1998"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "mauro_silva": {
+    "nome": "Mauro Silva",
+    "nome_exibicao": "Mauro Silva",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "zinho": {
+    "nome": "Zinho",
+    "nome_exibicao": "Zinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "rai": {
+    "nome": "Raí",
+    "nome_exibicao": "Raí",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ronaldo": {
+    "nome": "Ronaldo",
+    "nome_exibicao": "Ronaldo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994",
+      "1998",
+      "2002",
+      "2006"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "viola": {
+    "nome": "Viola",
+    "nome_exibicao": "Viola",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1994"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "carlos_germano": {
+    "nome": "Carlos Germano",
+    "nome_exibicao": "Carlos Germano",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "junior_baiano": {
+    "nome": "Júnior Baiano",
+    "nome_exibicao": "Júnior Baiano",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "goncalves": {
+    "nome": "Gonçalves",
+    "nome_exibicao": "Gonçalves",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "andre_cruz": {
+    "nome": "André Cruz",
+    "nome_exibicao": "André Cruz",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "roberto_carlos": {
+    "nome": "Roberto Carlos",
+    "nome_exibicao": "Roberto Carlos",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998",
+      "2002",
+      "2006"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ze_roberto": {
+    "nome": "Zé Roberto",
+    "nome_exibicao": "Zé Roberto",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998",
+      "2006"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "cesar_sampaio": {
+    "nome": "César Sampaio",
+    "nome_exibicao": "César Sampaio",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "giovanni": {
+    "nome": "Giovanni",
+    "nome_exibicao": "Giovanni",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "rivaldo": {
+    "nome": "Rivaldo",
+    "nome_exibicao": "Rivaldo",
+    "posicao": "meias",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998",
+      "2002"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "emerson": {
+    "nome": "Emerson",
+    "nome_exibicao": "Emerson",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998",
+      "2006"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "doriva": {
+    "nome": "Doriva",
+    "nome_exibicao": "Doriva",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "edmundo": {
+    "nome": "Edmundo",
+    "nome_exibicao": "Edmundo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "1998"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "marcos": {
+    "nome": "Marcos",
+    "nome_exibicao": "Marcos",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "rogerio_ceni": {
+    "nome": "Rogério Ceni",
+    "nome_exibicao": "Rogério Ceni",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002",
+      "2006"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "lucio": {
+    "nome": "Lúcio",
+    "nome_exibicao": "Lúcio",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002",
+      "2006",
+      "2010"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "roque_junior": {
+    "nome": "Roque Júnior",
+    "nome_exibicao": "Roque Júnior",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "belletti": {
+    "nome": "Belletti",
+    "nome_exibicao": "Belletti",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "anderson_polga": {
+    "nome": "Ânderson Polga",
+    "nome_exibicao": "Ânderson Polga",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "edmilson": {
+    "nome": "Edmílson",
+    "nome_exibicao": "Edmílson",
+    "posicao": "meias",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ricardinho": {
+    "nome": "Ricardinho",
+    "nome_exibicao": "Ricardinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002",
+      "2006"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "gilberto_silva": {
+    "nome": "Gilberto Silva",
+    "nome_exibicao": "Gilberto Silva",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002",
+      "2006",
+      "2010"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ronaldinho": {
+    "nome": "Ronaldinho",
+    "nome_exibicao": "Ronaldinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002",
+      "2006"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "kleberson": {
+    "nome": "Kléberson",
+    "nome_exibicao": "Kléberson",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002",
+      "2010"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "vampeta": {
+    "nome": "Vampeta",
+    "nome_exibicao": "Vampeta",
+    "posicao": "meias",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "juninho_paulista": {
+    "nome": "Juninho Paulista",
+    "nome_exibicao": "Juninho Paulista",
+    "posicao": "meias",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "kaka": {
+    "nome": "Kaká",
+    "nome_exibicao": "Kaká",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002",
+      "2006",
+      "2010"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "denilson": {
+    "nome": "Denilson",
+    "nome_exibicao": "Denilson",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "edilson": {
+    "nome": "Edilson",
+    "nome_exibicao": "Edilson",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "luizao": {
+    "nome": "Luizão",
+    "nome_exibicao": "Luizão",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2002"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "juan": {
+    "nome": "Juan",
+    "nome_exibicao": "Juan",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2006",
+      "2010"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "cicinho": {
+    "nome": "Cicinho",
+    "nome_exibicao": "Cicinho",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2006"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "luisao": {
+    "nome": "Luisão",
+    "nome_exibicao": "Luisão",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2006",
+      "2010"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "cris": {
+    "nome": "Cris",
+    "nome_exibicao": "Cris",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2006"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "gilberto": {
+    "nome": "Gilberto",
+    "nome_exibicao": "Gilberto",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2006",
+      "2010"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "mineiro": {
+    "nome": "Mineiro",
+    "nome_exibicao": "Mineiro",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2006"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "juninho_pernambucano": {
+    "nome": "Juninho Pernambucano",
+    "nome_exibicao": "Juninho Pernambucano",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2006"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "adriano": {
+    "nome": "Adriano",
+    "nome_exibicao": "Adriano",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2006"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "fred": {
+    "nome": "Fred",
+    "nome_exibicao": "Fred",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2006",
+      "2014",
+      "2018",
+      "2022"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "robinho": {
+    "nome": "Robinho",
+    "nome_exibicao": "Robinho",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2006",
+      "2010"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "gomes": {
+    "nome": "Gomes",
+    "nome_exibicao": "Gomes",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "doni": {
+    "nome": "Doni",
+    "nome_exibicao": "Doni",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "maicon": {
+    "nome": "Maicon",
+    "nome_exibicao": "Maicon",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010",
+      "2014"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "michel_bastos": {
+    "nome": "Michel Bastos",
+    "nome_exibicao": "Michel Bastos",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "dani_alves": {
+    "nome": "Dani Alves",
+    "nome_exibicao": "Dani Alves",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010",
+      "2014"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "thiago_silva": {
+    "nome": "Thiago Silva",
+    "nome_exibicao": "Thiago Silva",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010",
+      "2014",
+      "2018",
+      "2022"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "felipe_melo": {
+    "nome": "Felipe Melo",
+    "nome_exibicao": "Felipe Melo",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "elano": {
+    "nome": "Elano",
+    "nome_exibicao": "Elano",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "josue": {
+    "nome": "Josué",
+    "nome_exibicao": "Josué",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ramires": {
+    "nome": "Ramires",
+    "nome_exibicao": "Ramires",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010",
+      "2014"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "luis_fabiano": {
+    "nome": "Luís Fabiano",
+    "nome_exibicao": "Luís Fabiano",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "julio_baptista": {
+    "nome": "Júlio Baptista",
+    "nome_exibicao": "Júlio Baptista",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "nilmar": {
+    "nome": "Nilmar",
+    "nome_exibicao": "Nilmar",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "grafite": {
+    "nome": "Grafite",
+    "nome_exibicao": "Grafite",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2010"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "jefferson": {
+    "nome": "Jefferson",
+    "nome_exibicao": "Jefferson",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "victor": {
+    "nome": "Victor",
+    "nome_exibicao": "Victor",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "david_luiz": {
+    "nome": "David Luiz",
+    "nome_exibicao": "David Luiz",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "marcelo": {
+    "nome": "Marcelo",
+    "nome_exibicao": "Marcelo",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014",
+      "2018"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "dante": {
+    "nome": "Dante",
+    "nome_exibicao": "Dante",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "maxwell": {
+    "nome": "Maxwell",
+    "nome_exibicao": "Maxwell",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "henrique": {
+    "nome": "Henrique",
+    "nome_exibicao": "Henrique",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "fernandinho": {
+    "nome": "Fernandinho",
+    "nome_exibicao": "Fernandinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014",
+      "2018"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "paulinho": {
+    "nome": "Paulinho",
+    "nome_exibicao": "Paulinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014",
+      "2018"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "luiz_gustavo": {
+    "nome": "Luiz Gustavo",
+    "nome_exibicao": "Luiz Gustavo",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "hernanes": {
+    "nome": "Hernanes",
+    "nome_exibicao": "Hernanes",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "bernard": {
+    "nome": "Bernard",
+    "nome_exibicao": "Bernard",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "willian": {
+    "nome": "Willian",
+    "nome_exibicao": "Willian",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014",
+      "2018"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "jo": {
+    "nome": "Jô",
+    "nome_exibicao": "Jô",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2014"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "alisson": {
+    "nome": "Alisson",
+    "nome_exibicao": "Alisson",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018",
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "cassio": {
+    "nome": "Cássio",
+    "nome_exibicao": "Cássio",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ederson": {
+    "nome": "Ederson",
+    "nome_exibicao": "Ederson",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018",
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "miranda": {
+    "nome": "Miranda",
+    "nome_exibicao": "Miranda",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "geromel": {
+    "nome": "Geromel",
+    "nome_exibicao": "Geromel",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "filipe_luis": {
+    "nome": "Filipe Luís",
+    "nome_exibicao": "Filipe Luís",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "marquinhos": {
+    "nome": "Marquinhos",
+    "nome_exibicao": "Marquinhos",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018",
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "fagner": {
+    "nome": "Fagner",
+    "nome_exibicao": "Fagner",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "casemiro": {
+    "nome": "Casemiro",
+    "nome_exibicao": "Casemiro",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018",
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "renato_augusto": {
+    "nome": "Renato Augusto",
+    "nome_exibicao": "Renato Augusto",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "douglas_costa": {
+    "nome": "Douglas Costa",
+    "nome_exibicao": "Douglas Costa",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "gabriel_jesus": {
+    "nome": "Gabriel Jesus",
+    "nome_exibicao": "Gabriel Jesus",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018",
+      "2022"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "firmino": {
+    "nome": "Firmino",
+    "nome_exibicao": "Firmino",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "taison": {
+    "nome": "Taison",
+    "nome_exibicao": "Taison",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2018"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "weverton": {
+    "nome": "Weverton",
+    "nome_exibicao": "Weverton",
+    "posicao": "goleiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "alex_sandro": {
+    "nome": "Alex Sandro",
+    "nome_exibicao": "Alex Sandro",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "alex_telles": {
+    "nome": "Alex Telles",
+    "nome_exibicao": "Alex Telles",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "daniel_alves": {
+    "nome": "Daniel Alves",
+    "nome_exibicao": "Daniel Alves",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "militao": {
+    "nome": "Militão",
+    "nome_exibicao": "Militão",
+    "posicao": "defensor",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "bremer": {
+    "nome": "Bremer",
+    "nome_exibicao": "Bremer",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "paqueta": {
+    "nome": "Paquetá",
+    "nome_exibicao": "Paquetá",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "everton_ribeiro": {
+    "nome": "Everton Ribeiro",
+    "nome_exibicao": "Everton Ribeiro",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "fabinho": {
+    "nome": "Fabinho",
+    "nome_exibicao": "Fabinho",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "bruno_guimaraes": {
+    "nome": "Bruno Guimarães",
+    "nome_exibicao": "Bruno Guimarães",
+    "posicao": "meio-campista",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "richarlison": {
+    "nome": "Richarlison",
+    "nome_exibicao": "Richarlison",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "raphinha": {
+    "nome": "Raphinha",
+    "nome_exibicao": "Raphinha",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022",
+      "2026"
+    ],
+    "nivel_dificuldade": "facil",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "antony": {
+    "nome": "Antony",
+    "nome_exibicao": "Antony",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "vinicius_jr": {
+    "nome": "Vinícius Jr.",
+    "nome_exibicao": "Vinícius Jr.",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "rodrygo": {
+    "nome": "Rodrygo",
+    "nome_exibicao": "Rodrygo",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "martinelli": {
+    "nome": "Martinelli",
+    "nome_exibicao": "Martinelli",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2022"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "wesley": {
+    "nome": "Wesley",
+    "nome_exibicao": "Wesley",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "douglas_santos": {
+    "nome": "Douglas Santos",
+    "nome_exibicao": "Douglas Santos",
+    "posicao": "lateral",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "gabriel_magalhaes": {
+    "nome": "Gabriel Magalhães",
+    "nome_exibicao": "Gabriel Magalhães",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "leo_pereira": {
+    "nome": "Léo Pereira",
+    "nome_exibicao": "Léo Pereira",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "ibanez": {
+    "nome": "Ibañez",
+    "nome_exibicao": "Ibañez",
+    "posicao": "zagueiro",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "vini_jr": {
+    "nome": "Vini Jr",
+    "nome_exibicao": "Vini Jr",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "gabriel_martinelli": {
+    "nome": "Gabriel Martinelli",
+    "nome_exibicao": "Gabriel Martinelli",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "luiz_henrique": {
+    "nome": "Luiz Henrique",
+    "nome_exibicao": "Luiz Henrique",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "rayan": {
+    "nome": "Rayan",
+    "nome_exibicao": "Rayan",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "matheus_cunha": {
+    "nome": "Matheus Cunha",
+    "nome_exibicao": "Matheus Cunha",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "endrick": {
+    "nome": "Endrick",
+    "nome_exibicao": "Endrick",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  },
+  "igor_thiago": {
+    "nome": "Igor Thiago",
+    "nome_exibicao": "Igor Thiago",
+    "posicao": "atacante",
+    "clube_atual": null,
+    "copas_disputadas": [
+      "2026"
+    ],
+    "nivel_dificuldade": "medio",
+    "possivel_homonimo": false,
+    "revisao_manual": false,
+    "imagem_url": null
+  }
+}

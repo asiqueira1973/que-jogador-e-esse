@@ -1,0 +1,111 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+
+    "jogadores_futebol": {
+      ".read": true,
+      ".write": false,
+      "$jogador_futebol_id": {
+        ".read": true
+      }
+    },
+
+    "salas": {
+      ".read": false,
+      ".write": false,
+
+      "$codigo_sala": {
+        ".read": "$codigo_sala.matches(/^[A-Z0-9]{4,5}$/)",
+        ".write": "$codigo_sala.matches(/^[A-Z0-9]{4,5}$/)",
+        ".validate": "newData.hasChildren(['estado', 'criado_em']) || !newData.exists()",
+
+        "estado": {
+          ".validate": "newData.isString() && newData.val().matches(/^(aguardando|rodada_ativa|revelado|encerrada)$/)"
+        },
+        "criado_em": {
+          ".validate": "newData.isNumber() && newData.val() > 0"
+        },
+        "jogador_futebol_atual_id": {
+          ".validate": "newData.isString() && newData.val().length > 0 && newData.val().length <= 120"
+        },
+        "pista_atual_index": {
+          ".validate": "newData.isNumber() && newData.val() >= 0 && newData.val() <= 50"
+        },
+        "rodada_numero": {
+          ".validate": "newData.isNumber() && newData.val() >= 0 && newData.val() <= 500"
+        },
+
+        "buzz_atual": {
+          ".validate": "newData.hasChildren(['jogador_sala_id', 'timestamp'])",
+          "jogador_sala_id": {
+            ".validate": "newData.isString() && root.child('salas').child($codigo_sala).child('jogadores').child(newData.val()).exists() && (!data.exists() || data.val() == newData.val())"
+          },
+          "timestamp": {
+            ".validate": "newData.isNumber()"
+          },
+          "$outro": { ".validate": false }
+        },
+
+        "tentativas_bloqueadas": {
+          "$jogador_sala_id": {
+            ".validate": "newData.isBoolean() && newData.val() == true"
+          }
+        },
+
+        "jogadores_futebol_usados": {
+          "$jogador_futebol_id": {
+            ".validate": "newData.isBoolean() && newData.val() == true"
+          }
+        },
+
+        "ultima_rodada": {
+          ".validate": "newData.hasChildren(['jogador_futebol_id', 'pontos_ganhos', 'pistas_reveladas'])",
+          "jogador_futebol_id": { ".validate": "newData.isString()" },
+          "vencedor_jogador_sala_id": { ".validate": "newData.isString()" },
+          "pontos_ganhos": { ".validate": "newData.isNumber() && newData.val() >= 0 && newData.val() <= 100" },
+          "pistas_reveladas": { ".validate": "newData.isNumber() && newData.val() >= 0 && newData.val() <= 50" },
+          "$outro": { ".validate": false }
+        },
+
+        "jogadores": {
+          "$jogador_sala_id": {
+            ".validate": "!newData.exists() || newData.hasChildren(['apelido', 'pontos', 'conectado_em', 'ativo'])",
+            "apelido": {
+              ".validate": "newData.isString() && newData.val().length > 0 && newData.val().length <= 24"
+            },
+            "pontos": {
+              ".validate": "newData.isNumber() && newData.val() >= 0 && newData.val() <= 100000"
+            },
+            "conectado_em": {
+              ".validate": "newData.isNumber() && newData.val() > 0"
+            },
+            "ativo": {
+              ".validate": "newData.isBoolean()"
+            },
+            "$outro": { ".validate": false }
+          }
+        },
+
+        "$outro": { ".validate": false }
+      }
+    },
+
+    "rodadas_historico": {
+      ".read": false,
+      "$codigo_sala": {
+        ".read": "$codigo_sala.matches(/^[A-Z0-9]{4,5}$/)",
+        ".write": "$codigo_sala.matches(/^[A-Z0-9]{4,5}$/)",
+        "$rodada_id": {
+          ".validate": "newData.hasChildren(['jogador_futebol_id', 'pistas_reveladas', 'pontos_ganhos', 'encerrada_em'])",
+          "jogador_futebol_id": { ".validate": "newData.isString()" },
+          "pistas_reveladas": { ".validate": "newData.isNumber() && newData.val() >= 0 && newData.val() <= 50" },
+          "vencedor_jogador_sala_id": { ".validate": "newData.isString()" },
+          "pontos_ganhos": { ".validate": "newData.isNumber() && newData.val() >= 0 && newData.val() <= 100" },
+          "encerrada_em": { ".validate": "newData.isNumber() && newData.val() > 0" },
+          "$outro": { ".validate": false }
+        }
+      }
+    }
+  }
+}

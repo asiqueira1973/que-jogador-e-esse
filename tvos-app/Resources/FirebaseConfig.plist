@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Variaveis de ambiente do app tvOS (secao 18 do spec).
+  Sao chaves publicas por design (secao 20): a seguranca vem das regras do Realtime Database.
+  Enquanto AppConfig.usarEmulador for true, estes valores nao sao usados.
+-->
+<plist version="1.0">
+<dict>
+  <!-- true = emulador local; false = projeto Firebase real. Trocar aqui nao exige mexer no codigo. -->
+  <key>USAR_EMULADOR</key>
+  <false/>
+  <!-- Nao e usada pelo Realtime Database sem autenticacao; fica aqui para o dia em que houver Auth. -->
+  <key>FIREBASE_API_KEY</key>
+  <string>PREENCHER_SE_UM_DIA_HOUVER_AUTH</string>
+  <key>FIREBASE_DATABASE_URL</key>
+  <string>https://que-jogador-e-esse-default-rtdb.firebaseio.com</string>
+  <key>FIREBASE_PROJECT_ID</key>
+  <string>que-jogador-e-esse</string>
+  <!-- O SDK valida o FORMATO deste id (1:<numero>:ios:<hash>) e derruba o app se nao bater.
+       O placeholder abaixo e bem formado; troque pelo id real do console quando quiser. -->
+  <key>FIREBASE_GOOGLE_APP_ID</key>
+  <string>1:884985041791:ios:0000000000000000</string>
+  <key>FIREBASE_GCM_SENDER_ID</key>
+  <string>884985041791</string>
+  <!-- Endereço da PWA. Aparece na TV e vira o conteúdo do QR code (com ?sala= embutido). -->
+  <key>PWA_URL</key>
+  <string>que-jogador-e-esse.web.app</string>
+</dict>
+</plist>

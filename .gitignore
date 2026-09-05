@@ -1,0 +1,28 @@
+# Dependências
+node_modules/
+
+# Build do Xcode (o .xcodeproj é gerado por XcodeGen a partir de project.yml)
+tvos-app/build/
+# Build do SwiftPM do harness — traz o checkout inteiro do SDK do Firebase (centenas de MB)
+tools/EngineHarness/.build/
+tvos-app/QueJogadorEEsse.xcodeproj/
+*.xcuserstate
+xcuserdata/
+.swiftpm/
+
+# Emulador do Firebase
+firebase-debug.log
+database-debug.log
+ui-debug.log
+.firebase/
+
+# macOS
+.DS_Store
+
+# Snapshot do conteúdo de produção: é dado vivo, baixado por `npm run seed:baixar`
+content/jogadores_futebol.producao.json
+content/backup/
+content/patch-pistas.json
+
+# Registros pessoais do primeiro teste (fotos e capturas do Alexandre)
+prints do meu teste 1/

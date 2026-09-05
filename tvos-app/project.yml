@@ -1,0 +1,95 @@
+# Projeto Xcode do app do anfitriao (tvOS), gerado por XcodeGen.
+# Regenerar com:  cd tvos-app && xcodegen generate
+name: QueJogadorEEsse
+options:
+  bundleIdPrefix: com.dablab
+  deploymentTarget:
+    tvOS: "17.0"
+  createIntermediateGroups: true
+  groupSortPosition: top
+
+packages:
+  Firebase:
+    url: https://github.com/firebase/firebase-ios-sdk
+    minVersion: 11.0.0
+    maxVersion: 13.0.0
+
+targets:
+  QueJogadorEEsse:
+    type: application
+    platform: tvOS
+    sources:
+      - path: Sources
+      - path: Resources
+        buildPhase: resources
+        # O Info.plist e gerado pelo XcodeGen a partir de `info:` abaixo; se ele tambem
+        # entrar como recurso, o Xcode reclama de "multiple commands produce Info.plist".
+        excludes:
+          - Info.plist
+          # PNGs de origem do icone: entram pelo Assets.xcassets, nao soltos no bundle.
+          - BrandAssets
+    dependencies:
+      - package: Firebase
+        product: FirebaseDatabase
+    info:
+      path: Resources/Info.plist
+      properties:
+        CFBundleDisplayName: Que Jogador É Esse?
+        CFBundleShortVersionString: "1.0"
+        CFBundleVersion: "1"
+        # Responde de antemao o "App Encryption Documentation": o app so faz HTTPS pelos
+        # frameworks padrao e pelo SDK do Firebase, sem criptografia propria. Sem esta chave,
+        # todo build sobe travado em "Missing Compliance" no App Store Connect.
+        ITSAppUsesNonExemptEncryption: false
+        UIApplicationSceneManifest:
+          UIApplicationSupportsMultipleScenes: false
+        UIAppFonts:
+          - Anton-Regular.ttf
+          - Barlow-Regular.ttf
+          - Barlow-SemiBold.ttf
+          - Barlow-Bold.ttf
+          - BarlowCondensed-SemiBold.ttf
+          - BarlowCondensed-Bold.ttf
+        # A PWA e servida por HTTP no ambiente de desenvolvimento (emulador do Firebase).
+        NSAppTransportSecurity:
+          NSAllowsLocalNetworking: true
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.dablab.quejogadoreesse
+        SWIFT_VERSION: "5.0"
+        TARGETED_DEVICE_FAMILY: "3"
+        ASSETCATALOG_COMPILER_APPICON_NAME: "App Icon & Top Shelf Image"
+        SWIFT_STRICT_CONCURRENCY: minimal
+        # Assinatura automatica com a conta de desenvolvedor do Alexandre, necessaria para
+        # instalar numa Apple TV de verdade. O simulador ignora assinatura.
+        DEVELOPMENT_TEAM: XGZW6Y6K25
+        CODE_SIGN_STYLE: Automatic
+      configs:
+        Debug:
+          CODE_SIGNING_ALLOWED: YES
+        Release:
+          # Assinatura MANUAL: a automatica provisiona perfil de Development ao arquivar, e perfil de
+          # Development exige aparelho registrado no time — que este projeto nao tem. Perfil de App
+          # Store nao usa aparelho. Regerar este bloco com scripts/configurar-assinatura.py.
+          CODE_SIGNING_ALLOWED: YES
+          CODE_SIGN_STYLE: Manual
+          CODE_SIGN_IDENTITY: "Apple Distribution"
+          PROVISIONING_PROFILE_SPECIFIER: "Apple TV 2"
+
+schemes:
+  QueJogadorEEsse:
+    # Scheme compartilhado e explicito: garante que Archive use Release (distribuicao) e nao
+    # Debug. Sem isso o Xcode inventa um scheme local, que nao fica versionado e varia por maquina.
+    build:
+      targets:
+        QueJogadorEEsse: all
+    run:
+      config: Debug
+    test:
+      config: Debug
+    profile:
+      config: Release
+    analyze:
+      config: Debug
+    archive:
+      config: Release
