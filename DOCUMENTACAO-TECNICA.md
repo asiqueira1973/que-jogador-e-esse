@@ -378,6 +378,25 @@ suporte respondendo.
 
 ---
 
+### Cloud Storage fechado (29/09/2026)
+
+O bucket das ilustrações tinha sido criado em **modo de teste**, com regras que expiram em 30 dias
+— o Firebase avisou faltando 3 dias. Ao verificar, o problema era maior do que o aviso sugeria:
+**escrita anônima funcionava**. Qualquer pessoa com a URL do bucket podia sobrescrever as 399
+ilustrações por outra imagem, ou apagá-las.
+
+Regras publicadas em `firebase/storage.rules`: leitura liberada em `jogadores/`, escrita fechada
+para todo cliente, e todo o resto do bucket fechado nos dois sentidos. O fluxo do n8n continua
+gravando normalmente, porque usa Service Account.
+
+Uma distinção que vale registrar: o app carrega as ilustrações por URL direta do
+`storage.googleapis.com`, apoiada na ACL pública de cada objeto — caminho que **não passa pelas
+Firebase Security Rules**. Ou seja, a expiração anunciada não teria derrubado as imagens no app; o
+risco real era a escrita aberta, não a leitura. Verificado depois de publicar: 15 ilustrações de
+amostra carregando, e escrita, sobrescrita e exclusão anônimas todas em 403.
+
+---
+
 ## 8. Pendências que só você pode fechar
 
 Do Definition of Done (seção 26), estes itens **não são verificáveis por código** e continuam em

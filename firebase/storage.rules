@@ -1,0 +1,28 @@
+rules_version = '2';
+
+// Regras do Cloud Storage. O bucket guarda um unico tipo de arquivo: as ilustracoes estilizadas
+// dos jogadores, em `jogadores/{id}.png`.
+//
+// Quem escreve aqui e o fluxo do n8n, autenticado por Service Account — credencial de dono do
+// projeto, que ignora estas regras. Nenhum cliente (app tvOS ou PWA) precisa escrever, entao
+// escrita fica fechada para todo mundo.
+//
+// Antes destas regras o bucket estava em modo de teste: escrita anonima funcionava, e qualquer
+// pessoa podia sobrescrever as ilustracoes por outra imagem.
+service firebase.storage {
+  match /b/{bucket}/o {
+
+    // As ilustracoes sao publicas por natureza: o app tvOS as carrega por URL direta, sem login
+    // (o produto nao tem autenticacao — secao 6 do spec).
+    match /jogadores/{arquivo} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // Qualquer outro caminho: fechado nos dois sentidos. Nao existe outro uso do bucket, e deixar
+    // aberto "por via das duvidas" e exatamente o que criou o problema que estas regras corrigem.
+    match /{caminho=**} {
+      allow read, write: if false;
+    }
+  }
+}

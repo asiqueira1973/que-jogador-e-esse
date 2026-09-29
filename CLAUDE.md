@@ -29,6 +29,7 @@ Se você mexer no sorteio de jogador, confira esse `nil` antes de commitar.
 | App do anfitrião (tvOS, SwiftUI) | `tvos-app/` — projeto Xcode gerado por XcodeGen a partir de `project.yml` |
 | App do convidado (PWA, JS vanilla) | `pwa-convidado/` — deploy na Vercel ou no Firebase Hosting |
 | Estado em tempo real | Firebase Realtime Database — regras em `firebase/database.rules.json` |
+| Ilustrações | Cloud Storage — regras em `firebase/storage.rules` |
 | Banco de conteúdo | `content/jogadores_futebol.json`, importado antes do lançamento |
 | Autenticação | **Nenhuma** (seção 6) — a segurança vem das regras do banco |
 
@@ -121,7 +122,8 @@ devices" significa só que nenhuma Apple TV foi pareada ainda.
 Deploy da PWA:
 ```bash
 firebase deploy --only hosting         # publica em que-jogador-e-esse.web.app (destino do QR code)
-firebase deploy --only database        # publica as regras de segurança
+firebase deploy --only database        # publica as regras do Realtime Database
+firebase deploy --only storage         # publica as regras do Cloud Storage
 ```
 
 O QR code da tela de sala aponta para `PWA_URL` + `/?sala=<código>`; se a PWA mudar de endereço,
@@ -148,6 +150,12 @@ usa só o `databaseURL`. O `FIREBASE_GOOGLE_APP_ID` precisa apenas estar **no fo
 
 As chaves do Firebase são **públicas por design** (seção 20) — a segurança está nas regras do
 banco, não no sigilo delas.
+
+**Quem escreve no Firebase:** ninguém, a partir do cliente. O app tvOS e a PWA só escrevem em
+`salas/` e `rodadas_historico/`. O conteúdo (`jogadores_futebol/` e as ilustrações no Storage) é
+gravado exclusivamente pelo fluxo do n8n, autenticado por Service Account — credencial de dono do
+projeto, que ignora as regras. Por isso as regras podem fechar escrita de cliente por completo
+nesses dois lugares sem quebrar o pipeline.
 
 Testando com Apple TV e celular reais na mesma rede: troque `127.0.0.1` pelo IP do Mac na rede
 doméstica, nos dois arquivos de config.

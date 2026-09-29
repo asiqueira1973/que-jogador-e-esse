@@ -2,14 +2,28 @@
   "database": {
     "rules": "firebase/database.rules.json"
   },
+  "storage": {
+    "rules": "firebase/storage.rules"
+  },
   "hosting": {
     "public": "pwa-convidado",
-    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
   },
   "emulators": {
-    "database": { "port": 9000 },
-    "hosting": { "port": 5055 },
-    "ui": { "enabled": true, "port": 4000 },
+    "database": {
+      "port": 9000
+    },
+    "hosting": {
+      "port": 5055
+    },
+    "ui": {
+      "enabled": true,
+      "port": 4000
+    },
     "singleProjectMode": true
   }
 }
