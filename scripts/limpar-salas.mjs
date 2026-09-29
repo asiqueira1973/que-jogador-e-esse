@@ -24,17 +24,25 @@ function firebase(...comando) {
 }
 
 const salas = JSON.parse(firebase('database:get', '/salas') || 'null') ?? {};
-const alvos = Object.entries(salas).filter(([, sala]) =>
-  sala?.estado === 'encerrada' && (sala.criado_em ?? 0) < limite);
+
+// Qualquer sala velha, e nao so as "encerrada".
+//
+// A versao anterior filtrava por `estado === 'encerrada'` e, na pratica, quase nunca limpava
+// nada: o caminho comum e a pessoa desligar a TV sem apertar "Encerrar jogo", deixando a sala
+// parada em `aguardando` ou `rodada_ativa` para sempre. A secao 7 do spec trata `salas/` como
+// dado efemero — passada a janela, uma sala esta morta seja qual for o estado dela.
+const alvos = Object.entries(salas).filter(([, sala]) => (sala?.criado_em ?? 0) < limite);
 
 if (!alvos.length) {
-  console.log(`Nenhuma sala encerrada ha mais de ${horas}h.`);
+  console.log(`Nenhuma sala com mais de ${horas}h.`);
   process.exit(0);
 }
 
-console.log(`${alvos.length} sala(s) encerrada(s) ha mais de ${horas}h:`);
+console.log(`${alvos.length} sala(s) com mais de ${horas}h:`);
 for (const [codigo, sala] of alvos) {
-  console.log(`  ${codigo} — criada em ${new Date(sala.criado_em ?? 0).toISOString()}`);
+  const idade = ((Date.now() - (sala.criado_em ?? 0)) / 3600000).toFixed(1);
+  const convidados = Object.keys(sala.jogadores ?? {}).length;
+  console.log(`  ${codigo}  estado: ${(sala.estado ?? '?').padEnd(13)} ${idade.padStart(7)}h  ${convidados} convidado(s)`);
 }
 
 if (!apagar) {

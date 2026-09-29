@@ -378,6 +378,23 @@ suporte respondendo.
 
 ---
 
+### Limpeza de salas corrigida (29/09/2026)
+
+O script de faxina tinha um furo: filtrava por `estado === 'encerrada'` e, na prática, quase nunca
+limpava nada. O caminho comum é a pessoa desligar a TV sem apertar "Encerrar jogo", deixando a
+sala parada em `aguardando` ou `rodada_ativa` para sempre.
+
+Descoberto ao olhar a produção depois da aprovação: das 4 salas no banco, 3 eram de teste e **uma
+era de um usuário real** que abriu o app, ninguém entrou, e ele fechou — 506 horas parada.
+
+Agora o script remove qualquer sala além da janela, seja qual for o estado, que é o que a seção 7
+quer dizer ao chamar `salas/` de dado efêmero. Rodado em 29/09: 4 salas e seus históricos
+removidos, conteúdo intacto (399 jogadores, ilustrações respondendo).
+
+Decisão de operação: execução **manual** (`npm run salas:limpar -- --apagar`). No volume atual —
+4 salas em 3 semanas — não compensa manter uma Cloud Function agendada. Se o uso crescer, a
+seção 7 já prevê a alternativa.
+
 ### Cloud Storage fechado (29/09/2026)
 
 O bucket das ilustrações tinha sido criado em **modo de teste**, com regras que expiram em 30 dias
