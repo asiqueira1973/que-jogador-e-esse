@@ -26,3 +26,18 @@ content/patch-pistas.json
 
 # Registros pessoais do primeiro teste (fotos e capturas do Alexandre)
 prints do meu teste 1/
+
+# --- Segredos e credenciais (nunca versionar) ---
+.env
+.env.*
+!.env.example
+GoogleService-Info.plist
+google-services.json
+*.p8
+*.p12
+*.mobileprovision
+*.keystore
+*.jks
+key.properties
+local.properties
+secrets/
